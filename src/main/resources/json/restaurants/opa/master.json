@@ -1,0 +1,660 @@
+{
+  "name": "brand/opa",
+  "page_title": "OPA - Tirana",
+  "sections": [
+    {
+      "name": "brand:opa",
+      "title": "OPA",
+      "template": "venue-vertical-list",
+      "items": [
+        {
+          "template": "venue-large",
+          "title": "Opa Bllok",
+          "link": {
+            "target": "https://wolt.com/en/alb/tirana/restaurant/opa-bllok",
+            "title": "",
+            "view_name": "venue",
+            "telemetry_object_id": "bd136d04-21aa-4671-a533-430290a916ff",
+            "type": "url",
+            "target_title": "",
+            "target_sort": "delivers-to"
+          },
+          "image": {
+            "url": "https://imageproxy.wolt.com/assets/69933650c7fede311b1a3dda",
+            "blurhash": "j1Bm10X:04T:0j0jIR;C14cPcz0Q"
+          },
+          "venue": {
+            "id": "65e5a35d12bb0b14cf9d675a",
+            "slug": "opa-bllok",
+            "name": "Opa Bllok",
+            "short_description": "The miracle of meat in a pita wrap!",
+            "short_description_v2": {
+              "lang": "en",
+              "value": "The miracle of meat in a pita wrap!"
+            },
+            "online": true,
+            "delivers": true,
+            "estimate_range": "20-30",
+            "estimate_box": {
+              "title": "20-30",
+              "subtitle": "min",
+              "template": "estimate"
+            },
+            "delivery_price_int": 0,
+            "delivery_price_highlight": true,
+            "delivery_highlight": true,
+            "price_range": 1,
+            "currency": "ALL",
+            "country": "ALB",
+            "location": [
+              19.81357288,
+              41.32183357
+            ],
+            "address": "Rruga Sami Frasheri 15",
+            "badges": [],
+            "rating": {
+              "score": 8.8,
+              "rating": 3,
+              "volume": 1864
+            },
+            "favourite": false,
+            "show_wolt_plus": false,
+            "promotions": [
+              {
+                "variant": "discount",
+                "text": "-25% on OPA Family Box",
+                "icon": "coupon-fill",
+                "campaign_id": "69f88d16ecf058668a4f98b0",
+                "is_offer_stackable": true
+              }
+            ],
+            "promotions_for_telemetry": [
+              {
+                "variant": "discount",
+                "text": "Eat Big with OPA for 890ALL",
+                "icon": "coupon-fill",
+                "campaign_id": "69f88daa6e75802dff17d2da",
+                "is_offer_stackable": true
+              },
+              {
+                "variant": "discount",
+                "text": "No delivery fee for 14 days",
+                "icon": "coupon-fill",
+                "campaign_id": "682a0147bd45b35ca330d733",
+                "is_offer_stackable": true
+              },
+              {
+                "variant": "discount",
+                "text": "-50% off! (max 650 lek)",
+                "icon": "coupon-fill",
+                "campaign_id": "6996d9c825fe702e4403803c",
+                "is_offer_stackable": false
+              }
+            ],
+            "icon": "bike",
+            "delivery_icon": "bike",
+            "badges_v2": [
+              {
+                "variant": "primary",
+                "text": "-25% on OPA Family Box",
+                "icon": "coupon-fill"
+              }
+            ],
+            "venue_preview_items": [],
+            "brand_image": {
+              "url": "https://imageproxy.wolt.com/assets/681d419b075995aafa7986e5",
+              "blurhash": "j3YDVeGXg0FCB4CGCXtCg0tBP;uG"
+            },
+            "product_line": "restaurant",
+            "delivery_within_time_range": false,
+            "estimate": 25,
+            "show_best_of_wolt": false,
+            "franchise": "",
+            "city": "",
+            "categories": []
+          },
+          "track_id": "venue-opa-bllok",
+          "overlay_v2": {
+            "variant": "footer",
+            "primary_text": "Closing soon",
+            "telemetry_status": "closing_soon"
+          },
+          "filtering": {
+            "filters": []
+          },
+          "sorting": {
+            "sortables": []
+          },
+          "telemetry_venue_badges": [
+            "promotions"
+          ],
+          "telemetry_object_id": "09b750b9-f8f2-4bf5-a19f-eb9035f4bbc0"
+        },
+        {
+          "template": "venue-large",
+          "title": "Opa 9-Kateshet",
+          "link": {
+            "target": "https://wolt.com/en/alb/tirana/restaurant/opa-qender",
+            "title": "",
+            "view_name": "venue",
+            "telemetry_object_id": "aacac603-3270-431e-86a6-235cf7ff88ee",
+            "type": "url",
+            "target_title": "",
+            "target_sort": "delivers-to"
+          },
+          "image": {
+            "url": "https://imageproxy.wolt.com/assets/699336b90edcf1136ce23c9a",
+            "blurhash": "j1Bm10X:04T:0j0jIR;C14cPcz0Q"
+          },
+          "venue": {
+            "id": "65e5a35d12bb0b14cf9d675d",
+            "slug": "opa-qender",
+            "name": "Opa 9-Kateshet",
+            "short_description": "The miracle of meat in a pita wrap!",
+            "short_description_v2": {
+              "lang": "en",
+              "value": "The miracle of meat in a pita wrap!"
+            },
+            "online": false,
+            "delivers": false,
+            "estimate_box": {
+              "subtitle": "Closed",
+              "template": "closed"
+            },
+            "delivery_price_int": 0,
+            "delivery_price_highlight": true,
+            "delivery_highlight": true,
+            "price_range": 1,
+            "currency": "ALL",
+            "country": "ALB",
+            "location": [
+              19.82142933,
+              41.3300515
+            ],
+            "address": "Rruga e Barrikadave",
+            "badges": [],
+            "rating": {
+              "score": 8.8,
+              "rating": 3,
+              "volume": 1423
+            },
+            "favourite": false,
+            "show_wolt_plus": false,
+            "promotions": [
+              {
+                "variant": "discount",
+                "text": "-25% on OPA Family Box",
+                "icon": "coupon-fill",
+                "campaign_id": "69f88d16ecf058668a4f98b0",
+                "is_offer_stackable": true
+              }
+            ],
+            "promotions_for_telemetry": [
+              {
+                "variant": "discount",
+                "text": "Eat Big with OPA for 890ALL",
+                "icon": "coupon-fill",
+                "campaign_id": "69f88daa6e75802dff17d2da",
+                "is_offer_stackable": true
+              },
+              {
+                "variant": "discount",
+                "text": "No delivery fee for 14 days",
+                "icon": "coupon-fill",
+                "campaign_id": "682a0147bd45b35ca330d733",
+                "is_offer_stackable": true
+              },
+              {
+                "variant": "discount",
+                "text": "-50% off! (max 650 lek)",
+                "icon": "coupon-fill",
+                "campaign_id": "6996d9c825fe702e4403803c",
+                "is_offer_stackable": false
+              }
+            ],
+            "icon": "bike",
+            "delivery_icon": "bike",
+            "badges_v2": [
+              {
+                "variant": "primary",
+                "text": "-25% on OPA Family Box",
+                "icon": "coupon-fill"
+              }
+            ],
+            "venue_preview_items": [],
+            "brand_image": {
+              "url": "https://imageproxy.wolt.com/assets/681d4959cb1a788812dda6ab",
+              "blurhash": "j3YDVeGXg0FCB4CGCXtCg0tBP;uG"
+            },
+            "product_line": "restaurant",
+            "delivery_within_time_range": false,
+            "estimate": 25,
+            "show_best_of_wolt": false,
+            "franchise": "",
+            "city": "",
+            "categories": []
+          },
+          "track_id": "venue-opa-qender",
+          "overlay": "Closed",
+          "overlay_v2": {
+            "variant": "footer",
+            "primary_text": "Schedule order",
+            "secondary_text": "Opens 10:00 AM",
+            "icon": "clock",
+            "telemetry_status": "scheduled_order__hour"
+          },
+          "filtering": {
+            "filters": []
+          },
+          "sorting": {
+            "sortables": []
+          },
+          "telemetry_venue_badges": [
+            "promotions"
+          ],
+          "telemetry_object_id": "cf2d3cb1-4030-4267-bce1-be1b3f1c5b46"
+        },
+        {
+          "template": "venue-large",
+          "title": "Opa Arena",
+          "link": {
+            "target": "https://wolt.com/en/alb/tirana/restaurant/opa-arena",
+            "title": "",
+            "view_name": "venue",
+            "telemetry_object_id": "db274263-26cc-4cea-b3ca-afdcc3869592",
+            "type": "url",
+            "target_title": "",
+            "target_sort": "delivers-to"
+          },
+          "image": {
+            "url": "https://imageproxy.wolt.com/assets/6993367eb353386403c1c667",
+            "blurhash": "j1Bm10X:04T:0j0jIR;C14cPcz0Q"
+          },
+          "venue": {
+            "id": "65e5a35d12bb0b14cf9d675b",
+            "slug": "opa-arena",
+            "name": "Opa Arena",
+            "short_description": "The miracle of meat in a pita wrap!",
+            "short_description_v2": {
+              "lang": "en",
+              "value": "The miracle of meat in a pita wrap!"
+            },
+            "online": false,
+            "delivers": false,
+            "estimate_box": {
+              "subtitle": "Closed",
+              "template": "closed"
+            },
+            "delivery_price_int": 0,
+            "delivery_price_highlight": true,
+            "delivery_highlight": true,
+            "price_range": 1,
+            "currency": "ALL",
+            "country": "ALB",
+            "location": [
+              19.82435176,
+              41.31743878
+            ],
+            "address": "Sheshi Italia",
+            "badges": [],
+            "rating": {
+              "score": 8.8,
+              "rating": 3,
+              "volume": 555
+            },
+            "favourite": false,
+            "show_wolt_plus": false,
+            "promotions": [
+              {
+                "variant": "discount",
+                "text": "-25% on OPA Family Box",
+                "icon": "coupon-fill",
+                "campaign_id": "69f88d16ecf058668a4f98b0",
+                "is_offer_stackable": true
+              }
+            ],
+            "promotions_for_telemetry": [
+              {
+                "variant": "discount",
+                "text": "Eat Big with OPA for 890ALL",
+                "icon": "coupon-fill",
+                "campaign_id": "69f88daa6e75802dff17d2da",
+                "is_offer_stackable": true
+              },
+              {
+                "variant": "discount",
+                "text": "No delivery fee for 14 days",
+                "icon": "coupon-fill",
+                "campaign_id": "682a0147bd45b35ca330d733",
+                "is_offer_stackable": true
+              },
+              {
+                "variant": "discount",
+                "text": "-50% off! (max 650 lek)",
+                "icon": "coupon-fill",
+                "campaign_id": "6996d9c825fe702e4403803c",
+                "is_offer_stackable": false
+              }
+            ],
+            "icon": "bike",
+            "delivery_icon": "bike",
+            "badges_v2": [
+              {
+                "variant": "primary",
+                "text": "-25% on OPA Family Box",
+                "icon": "coupon-fill"
+              }
+            ],
+            "venue_preview_items": [],
+            "brand_image": {
+              "url": "https://imageproxy.wolt.com/assets/673207b336f1e239ba1e51b4",
+              "blurhash": "j3YDVeGXg0FCB4CGCXtCg0tBP;uG"
+            },
+            "product_line": "restaurant",
+            "delivery_within_time_range": false,
+            "estimate": 30,
+            "show_best_of_wolt": false,
+            "franchise": "",
+            "city": "",
+            "categories": []
+          },
+          "track_id": "venue-opa-arena",
+          "overlay": "Closed",
+          "overlay_v2": {
+            "variant": "footer",
+            "primary_text": "Schedule order",
+            "secondary_text": "Opens 10:30 AM",
+            "icon": "clock",
+            "telemetry_status": "scheduled_order__hour"
+          },
+          "filtering": {
+            "filters": []
+          },
+          "sorting": {
+            "sortables": []
+          },
+          "telemetry_venue_badges": [
+            "promotions"
+          ],
+          "telemetry_object_id": "e39295ee-c69d-4615-9a7c-84a4ec9d46b8"
+        },
+        {
+          "template": "venue-large",
+          "title": "Opa TEG",
+          "link": {
+            "target": "https://wolt.com/en/alb/tirana/restaurant/opa-teg",
+            "title": "",
+            "view_name": "venue",
+            "telemetry_object_id": "21cb0fa1-2113-466a-b819-1bb1b9d95d8f",
+            "type": "url",
+            "target_title": "",
+            "target_sort": "delivers-to"
+          },
+          "image": {
+            "url": "https://imageproxy.wolt.com/assets/6993368bb353386403c1c671",
+            "blurhash": "j1Bm10X:04T:0j0jIR;C14cPcz0Q"
+          },
+          "venue": {
+            "id": "664afd98aa5708782b8472f3",
+            "slug": "opa-teg",
+            "name": "Opa TEG",
+            "short_description": "The miracle of meat in a pita wrap!",
+            "short_description_v2": {
+              "lang": "en",
+              "value": "The miracle of meat in a pita wrap!"
+            },
+            "online": false,
+            "delivers": false,
+            "estimate_box": {
+              "subtitle": "Closed",
+              "template": "closed"
+            },
+            "delivery_price_int": 0,
+            "delivery_price_highlight": true,
+            "delivery_highlight": true,
+            "price_range": 1,
+            "currency": "ALL",
+            "country": "ALB",
+            "location": [
+              19.85819515,
+              41.28360399
+            ],
+            "address": "TEG, Tirana East Gate",
+            "badges": [],
+            "rating": {
+              "score": 8.6,
+              "rating": 3,
+              "volume": 128
+            },
+            "favourite": false,
+            "show_wolt_plus": false,
+            "promotions": [
+              {
+                "variant": "discount",
+                "text": "-25% on OPA Family Box",
+                "icon": "coupon-fill",
+                "campaign_id": "69f88d16ecf058668a4f98b0",
+                "is_offer_stackable": true
+              }
+            ],
+            "promotions_for_telemetry": [
+              {
+                "variant": "discount",
+                "text": "Eat Big with OPA for 890ALL",
+                "icon": "coupon-fill",
+                "campaign_id": "69f88daa6e75802dff17d2da",
+                "is_offer_stackable": true
+              },
+              {
+                "variant": "discount",
+                "text": "No delivery fee for 14 days",
+                "icon": "coupon-fill",
+                "campaign_id": "682a0147bd45b35ca330d733",
+                "is_offer_stackable": true
+              },
+              {
+                "variant": "discount",
+                "text": "-50% off! (max 650 lek)",
+                "icon": "coupon-fill",
+                "campaign_id": "6996d9c825fe702e4403803c",
+                "is_offer_stackable": false
+              }
+            ],
+            "icon": "bike",
+            "delivery_icon": "bike",
+            "badges_v2": [
+              {
+                "variant": "primary",
+                "text": "-25% on OPA Family Box",
+                "icon": "coupon-fill"
+              }
+            ],
+            "venue_preview_items": [],
+            "brand_image": {
+              "url": "https://imageproxy.wolt.com/assets/67335dc518f45c3236a666f4",
+              "blurhash": "j3YDVeGXg0FCB4CGCXtCg0tBP;uG"
+            },
+            "product_line": "restaurant",
+            "delivery_within_time_range": false,
+            "estimate": 50,
+            "show_best_of_wolt": false,
+            "franchise": "",
+            "city": "",
+            "categories": []
+          },
+          "track_id": "venue-opa-teg",
+          "overlay": "Closed",
+          "overlay_v2": {
+            "variant": "footer",
+            "primary_text": "Schedule order",
+            "secondary_text": "Opens 10:05 AM",
+            "icon": "clock",
+            "telemetry_status": "scheduled_order__hour"
+          },
+          "filtering": {
+            "filters": []
+          },
+          "sorting": {
+            "sortables": []
+          },
+          "telemetry_venue_badges": [
+            "promotions"
+          ],
+          "telemetry_object_id": "ecb21673-43f4-4128-8c51-916b7180b97f"
+        },
+        {
+          "template": "venue-large",
+          "title": "OPA QTU",
+          "link": {
+            "target": "https://wolt.com/en/alb/tirana/restaurant/opa-qtu",
+            "title": "",
+            "view_name": "venue",
+            "telemetry_object_id": "91324d81-e4d8-4ba8-aa95-536a88af6bfe",
+            "type": "url",
+            "target_title": "",
+            "target_sort": "delivers-to"
+          },
+          "image": {
+            "url": "https://imageproxy.wolt.com/assets/6993369f0edcf1136ce23c8e",
+            "blurhash": "j1Bm10X:04T:0j0jIR;C14cPcz0Q"
+          },
+          "venue": {
+            "id": "66f15befd4853b1aeb5e964a",
+            "slug": "opa-qtu",
+            "name": "OPA QTU",
+            "short_description": "The miracle of meat in a pita wrap!",
+            "short_description_v2": {
+              "lang": "en",
+              "value": "The miracle of meat in a pita wrap!"
+            },
+            "online": false,
+            "delivers": false,
+            "estimate_box": {
+              "subtitle": "Closed",
+              "template": "closed"
+            },
+            "delivery_price_int": 0,
+            "delivery_price_highlight": true,
+            "delivery_highlight": true,
+            "price_range": 1,
+            "currency": "ALL",
+            "country": "ALB",
+            "location": [
+              19.74917038,
+              41.35389268
+            ],
+            "address": "Autostrada Tiranë - Durrës, km 6, Tiranë QTU 1001 Tirana Albania",
+            "badges": [],
+            "rating": {
+              "score": 8.6,
+              "rating": 3,
+              "volume": 193
+            },
+            "favourite": false,
+            "show_wolt_plus": false,
+            "promotions": [
+              {
+                "variant": "discount",
+                "text": "-25% on OPA Family Box",
+                "icon": "coupon-fill",
+                "campaign_id": "69f88d16ecf058668a4f98b0",
+                "is_offer_stackable": true
+              }
+            ],
+            "promotions_for_telemetry": [
+              {
+                "variant": "discount",
+                "text": "Eat Big with OPA for 890ALL",
+                "icon": "coupon-fill",
+                "campaign_id": "69f88daa6e75802dff17d2da",
+                "is_offer_stackable": true
+              },
+              {
+                "variant": "discount",
+                "text": "No delivery fee for 14 days",
+                "icon": "coupon-fill",
+                "campaign_id": "682a0147bd45b35ca330d733",
+                "is_offer_stackable": true
+              },
+              {
+                "variant": "discount",
+                "text": "-50% off! (max 650 lek)",
+                "icon": "coupon-fill",
+                "campaign_id": "6996d9c825fe702e4403803c",
+                "is_offer_stackable": false
+              }
+            ],
+            "icon": "bike",
+            "delivery_icon": "bike",
+            "badges_v2": [
+              {
+                "variant": "primary",
+                "text": "-25% on OPA Family Box",
+                "icon": "coupon-fill"
+              }
+            ],
+            "venue_preview_items": [],
+            "brand_image": {
+              "url": "https://imageproxy.wolt.com/assets/67335ee98e594205e1012ca9",
+              "blurhash": "j3YnVeGXg0FCB4CGCXtCg0tBP;uG"
+            },
+            "product_line": "restaurant",
+            "delivery_within_time_range": false,
+            "estimate": 60,
+            "show_best_of_wolt": false,
+            "franchise": "",
+            "city": "",
+            "categories": []
+          },
+          "track_id": "venue-opa-qtu",
+          "overlay": "Closed",
+          "overlay_v2": {
+            "variant": "footer",
+            "primary_text": "Schedule order",
+            "secondary_text": "Opens 10:10 AM",
+            "icon": "clock",
+            "telemetry_status": "scheduled_order__hour"
+          },
+          "filtering": {
+            "filters": []
+          },
+          "sorting": {
+            "sortables": []
+          },
+          "telemetry_venue_badges": [
+            "promotions"
+          ],
+          "telemetry_object_id": "a69e3cb4-d727-4699-af6c-8d31927c71f1"
+        }
+      ],
+      "hide_delivery_info": false,
+      "is_free_trial_eligible": false,
+      "telemetry_object_id": "d284236c-fadb-45c7-9488-77cdddd9cda8"
+    }
+  ],
+  "created": {
+    "$date": 1780271136114
+  },
+  "expires_in_seconds": 920,
+  "show_map": true,
+  "show_large_title": true,
+  "track_id": "page:brand:opa",
+  "city_data": {
+    "id": "6567403295041dcfeb69bc23",
+    "name": "Tirana",
+    "slug": "tirana",
+    "location": {
+      "coordinates": [
+        19.818446319183693,
+        41.328142965671304
+      ],
+      "type": "Point"
+    },
+    "country_code_alpha2": "AL",
+    "country_code_alpha3": "ALB",
+    "timezone": "Europe/Tirane",
+    "has_frontpage": true
+  },
+  "telemetry_response_id": "1c4a4ee0-9a21-48bf-9a22-c6eb94d89410:default",
+  "miyp_launch_enabled": true
+}

@@ -1,0 +1,7220 @@
+{
+  "assortment_id": "6751bea8057fdf331faf2cf9",
+  "loading_strategy": "full",
+  "primary_language": "sq",
+  "selected_language": "en",
+  "available_languages": [
+    {
+      "autotranslated": false,
+      "language": "en",
+      "name": "English"
+    },
+    {
+      "autotranslated": true,
+      "language": "it",
+      "name": "Italian"
+    },
+    {
+      "autotranslated": false,
+      "language": "sq",
+      "name": "Albanian"
+    }
+  ],
+  "compliance_info": {
+    "badges": [
+    ],
+    "disclaimers": null,
+    "how_search_works": null,
+    "lowest_price_calculation_interval_in_days": 30,
+    "should_display_original_price_for_unit_price": false,
+    "should_display_price_by_subtracting_deposit": false
+  },
+  "categories": [
+    {
+      "id": "d2033da864f4a7e3a2255771",
+      "description": "",
+      "images": [
+        {
+          "url": "https://imageproxy.wolt.com/assets/682c349b7957faa8599ca591",
+          "blurhash": null
+        }
+      ],
+      "name": "NEW OFFERS",
+      "slug": "new-offers-1",
+      "subcategories": [
+      ],
+      "item_ids": [
+        "517e2af96b2d5e1aec965f7c",
+        "4e1f26bb02e30d14135f70db",
+        "d37ed398a469daea821f3660",
+        "9e445759c6614bfc1f8fb443",
+        "73b6e3f731a724d81a99bb4f"
+      ]
+    },
+    {
+      "id": "1ccb6649312f5e426b10e0b5",
+      "description": "",
+      "images": [
+        {
+          "url": "https://imageproxy.wolt.com/assets/68289dc1c67a41d8bdb5239d",
+          "blurhash": null
+        }
+      ],
+      "name": "SHT\u00CBPIA E KREPAVE SPECIAL",
+      "slug": "shtepia-e-krepave-special-2",
+      "subcategories": [
+      ],
+      "item_ids": [
+        "fd79cdb10909653adaeed762"
+      ]
+    },
+    {
+      "id": "10105e24c8539e58ceccd71e",
+      "description": "",
+      "images": [
+        {
+          "url": "https://imageproxy.wolt.com/assets/67570e1533d8b646b502f1be",
+          "blurhash": null
+        }
+      ],
+      "name": "SWEET CREPES",
+      "slug": "sweet-crepes-3",
+      "subcategories": [
+      ],
+      "item_ids": [
+        "0b986c9d1f0bcb1b32119d00",
+        "c7e9edf29f20819843a0d4a0",
+        "fac4bf6c4d2c5ed00d639c7d",
+        "b27a368340aaf3e2a3bd134c",
+        "0aa49bf534436b21ec231071",
+        "e80de04b5e1acd041b84c564",
+        "9fdd4d91bd57d5ed33eef278",
+        "25c399cf43c10e85e3fbd3ec",
+        "ed4b4db1507cdf99c2495227",
+        "0df343a4257a1236b2a9c37d",
+        "143b322a6eaf5d05c0f3cfb3",
+        "21e9b91068fcbf2e81ea8e56",
+        "54681f7a4a352f4e60acbb8d",
+        "5cddb256befd8c0f66a365d3",
+        "6e5616f4041f7939dd980dd1",
+        "c60dcf5c6d3f14eb9c5118a6",
+        "dbd03e2bc2f4c955543a0f0b",
+        "64fc6bbc131f4c95fb7ab7ac"
+      ]
+    },
+    {
+      "id": "4d9bdfc05766af609f51667f",
+      "description": "",
+      "images": [
+        {
+          "url": "https://imageproxy.wolt.com/assets/67570e0733d8b646b502f186",
+          "blurhash": null
+        }
+      ],
+      "name": "SALTY CREPES",
+      "slug": "salty-crepes-4",
+      "subcategories": [
+      ],
+      "item_ids": [
+        "51527a760c7305ab1ba90e45",
+        "134edee48989381ec5d28c5e",
+        "b5c19e03c8a008712b9176d0",
+        "183abff4b9b194a2abb97b74",
+        "dd1d4a6320a7fe1b52c48dd3",
+        "e9a91ee1b50655e91c23dd9d",
+        "cc41340a4470f2a753bacee6",
+        "efab9aa52b6d3f51a120aff6",
+        "3e76f68a458bd9441a2cac6d",
+        "9da8a705a897c3600286586d",
+        "69058790f75291139db07979"
+      ]
+    },
+    {
+      "id": "4492c05266cf7570b71b404d",
+      "description": "",
+      "images": [
+        {
+          "url": "https://imageproxy.wolt.com/assets/67570e1933d8b646b502f1c3",
+          "blurhash": null
+        }
+      ],
+      "name": "WAFFLES",
+      "slug": "waffles-5",
+      "subcategories": [
+      ],
+      "item_ids": [
+        "901e8ea91a8db0230fdbcf0e",
+        "92bb1fb1a34c75e949d6784a",
+        "0dc7094b9099917544497f07",
+        "be2537890d50acfe9dd47f9f"
+      ]
+    },
+    {
+      "id": "6550f34a8429a6a1cdcf12ea",
+      "description": "",
+      "images": [
+        {
+          "url": "https://imageproxy.wolt.com/assets/67570e1133d8b646b502f1b5",
+          "blurhash": null
+        }
+      ],
+      "name": "SNACKS",
+      "slug": "snacks-6",
+      "subcategories": [
+      ],
+      "item_ids": [
+        "26f2898c2aaf611a62813a9b"
+      ]
+    },
+    {
+      "id": "9d9590c5dd17c7d1df5520f6",
+      "description": "",
+      "images": [
+        {
+          "url": "https://imageproxy.wolt.com/assets/675732d1466c2308cf881d38",
+          "blurhash": "j0UZKJPb;:KXPclCORKWPcGGl4lm"
+        }
+      ],
+      "name": "REFRESHING DRINKS",
+      "slug": "refreshing-drinks-7",
+      "subcategories": [
+      ],
+      "item_ids": [
+        "704a0c4daafb1a01238e0b6f",
+        "31ab9a36a536b41792f78bab",
+        "02d0015a2916717eee09a534",
+        "53f5b6acc8afdd35770e31ed",
+        "9ee17c06ec66cb54dd439bae",
+        "4d23cd00dfce53b2f9b375b6",
+        "48fbbabeb285cd2fc210a8f0",
+        "485e7549b6cab104412256a2",
+        "ba4f497367600e5a6ef51246",
+        "83d4037118c86829ec3c2e7b",
+        "3e8436c4f5678a2d3588bf6f"
+      ]
+    },
+    {
+      "id": "45ab7a6f0f67aaaa8228c815",
+      "description": "",
+      "images": [
+        {
+          "url": "https://imageproxy.wolt.com/assets/67570e1133d8b646b502f1b2",
+          "blurhash": null
+        }
+      ],
+      "name": "FRUIT JUICE",
+      "slug": "fruit-juice-8",
+      "subcategories": [
+      ],
+      "item_ids": [
+        "3afa4e49008258f8ccd673e0",
+        "7a66841b4743b816a1c9ebfe",
+        "2618e988897ce0b31150c4a1",
+        "25932d687224bf2f120d343e",
+        "1a2f408236c0df0631a89f23",
+        "c0d786267ef9bb64a7be5773",
+        "a00d65aee58f446d80b65e35",
+        "082e6b53b49ca07085659f1c",
+        "299b131e315f579add2f860e",
+        "43495ce7503bb6be821c7afd",
+        "e78c69cccf16ce52e286c155",
+        "1d837b4b0d3d2de02c724f4d",
+        "b4f03e8e62289b3a9c939056",
+        "783c56b66d247686d74bbd1d"
+      ]
+    },
+    {
+      "id": "8c86b1d36002c4fbd57211ad",
+      "description": "",
+      "images": [
+        {
+          "url": "https://imageproxy.wolt.com/assets/67573809466c2308cf881d61",
+          "blurhash": "j3WJurKX;Oh4;rBS8Ruq;Oll4KPc"
+        }
+      ],
+      "name": "HOT",
+      "slug": "hot-9",
+      "subcategories": [
+      ],
+      "item_ids": [
+        "145a1a0a18868d20612bf870"
+      ]
+    },
+    {
+      "id": "eeed9451ad2383c3d17a0d8d",
+      "description": "",
+      "images": [
+        {
+          "url": "https://imageproxy.wolt.com/assets/68cc8d609f81778612412ef0",
+          "blurhash": null
+        }
+      ],
+      "name": "BEERS",
+      "slug": "beers-10",
+      "subcategories": [
+      ],
+      "item_ids": [
+        "aee12e63a728d958d4b62b87",
+        "d239954d02e892675626672d",
+        "a0951e98bb0b28c94bf96f80"
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "02d0015a2916717eee09a534",
+      "advertising_info": null,
+      "alcohol_permille": 0,
+      "allowed_delivery_methods": [
+        "eatin",
+        "takeaway",
+        "homedelivery"
+      ],
+      "available_times": [
+        {
+          "days": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ],
+          "start_time": 0,
+          "end_time": 86400000
+        }
+      ],
+      "barcode_gtin": null,
+      "caffeine_info": null,
+      "can_be_promoted": {
+        "basket": true,
+        "venue": true,
+        "credits": true
+      },
+      "checksum": "fb3256da38598ebd8cd959877f1c5220",
+      "description": "",
+      "deposit": null,
+      "dietary_preferences": [
+      ],
+      "disabled_info": null,
+      "fulfillment_lead_time": null,
+      "has_extra_info": false,
+      "images": [
+        {
+          "url": "https://imageproxy.wolt.com/assets/680a10010b43fc2a1c009e51",
+          "blurhash": null
+        }
+      ],
+      "videos": [
+      ],
+      "is_cutlery": false,
+      "is_no_contact_delivery_allowed": true,
+      "is_wolt_plus_only": false,
+      "lowest_price": null,
+      "lowest_price_v2": null,
+      "max_quantity_per_purchase": null,
+      "min_quantity_per_purchase": null,
+      "name": "Sparkling Water",
+      "options": [
+      ],
+      "original_price": null,
+      "original_net_price": null,
+      "item_price_discount_validity_period": null,
+      "price": 10000,
+      "net_price": null,
+      "product_hierarchy_tags": [
+      ],
+      "purchasable_balance": null,
+      "restrictions": [
+      ],
+      "return_policy": null,
+      "sell_by_weight_config": null,
+      "should_display_purchasable_balance": false,
+      "tags": [
+      ],
+      "unit_info": null,
+      "unit_price": null,
+      "variant": null,
+      "vat_category_code": null,
+      "vat_percentage": 20,
+      "vat_percentage_decimal": "20.0",
+      "external_compliance_link": null,
+      "consent_info": {
+        "ask_consent": false,
+        "blur_image": false
+      }
+    },
+    {
+      "id": "082e6b53b49ca07085659f1c",
+      "advertising_info": null,
+      "alcohol_permille": 0,
+      "allowed_delivery_methods": [
+        "eatin",
+        "takeaway",
+        "homedelivery"
+      ],
+      "available_times": [
+        {
+          "days": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ],
+          "start_time": 0,
+          "end_time": 86400000
+        }
+      ],
+      "barcode_gtin": null,
+      "caffeine_info": null,
+      "can_be_promoted": {
+        "basket": true,
+        "venue": true,
+        "credits": true
+      },
+      "checksum": "972d50ac2b3dadc87586084e305ca0b4",
+      "description": "",
+      "deposit": null,
+      "dietary_preferences": [
+      ],
+      "disabled_info": null,
+      "fulfillment_lead_time": null,
+      "has_extra_info": false,
+      "images": [
+      ],
+      "videos": [
+      ],
+      "is_cutlery": false,
+      "is_no_contact_delivery_allowed": true,
+      "is_wolt_plus_only": false,
+      "lowest_price": null,
+      "lowest_price_v2": null,
+      "max_quantity_per_purchase": null,
+      "min_quantity_per_purchase": null,
+      "name": "Pineapple Juice",
+      "options": [
+      ],
+      "original_price": null,
+      "original_net_price": null,
+      "item_price_discount_validity_period": null,
+      "price": 49000,
+      "net_price": null,
+      "product_hierarchy_tags": [
+      ],
+      "purchasable_balance": null,
+      "restrictions": [
+      ],
+      "return_policy": null,
+      "sell_by_weight_config": null,
+      "should_display_purchasable_balance": false,
+      "tags": [
+      ],
+      "unit_info": null,
+      "unit_price": null,
+      "variant": null,
+      "vat_category_code": null,
+      "vat_percentage": 20,
+      "vat_percentage_decimal": "20.0",
+      "external_compliance_link": null,
+      "consent_info": {
+        "ask_consent": false,
+        "blur_image": false
+      }
+    },
+    {
+      "id": "0aa49bf534436b21ec231071",
+      "advertising_info": null,
+      "alcohol_permille": 0,
+      "allowed_delivery_methods": [
+        "eatin",
+        "takeaway",
+        "homedelivery"
+      ],
+      "available_times": [
+        {
+          "days": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ],
+          "start_time": 0,
+          "end_time": 86400000
+        }
+      ],
+      "barcode_gtin": null,
+      "caffeine_info": null,
+      "can_be_promoted": {
+        "basket": true,
+        "venue": true,
+        "credits": true
+      },
+      "checksum": "12b423879d91282a343001221b929370",
+      "description": "Panna, chocolate, biscuits",
+      "deposit": null,
+      "dietary_preferences": [
+      ],
+      "disabled_info": null,
+      "fulfillment_lead_time": null,
+      "has_extra_info": false,
+      "images": [
+      ],
+      "videos": [
+      ],
+      "is_cutlery": false,
+      "is_no_contact_delivery_allowed": true,
+      "is_wolt_plus_only": false,
+      "lowest_price": null,
+      "lowest_price_v2": null,
+      "max_quantity_per_purchase": null,
+      "min_quantity_per_purchase": null,
+      "name": "Cream",
+      "options": [
+        {
+          "id": "e5f59eb8cb73800d60439546",
+          "option_id": "4c445cbe4e2fa84a512bfc65",
+          "name": "Add extra",
+          "prerequisite_values": [
+          ],
+          "multi_choice_config": {
+            "total_range": {
+              "min": 0,
+              "max": 14
+            },
+            "max_single_selections": 1,
+            "free_selections": 0
+          }
+        }
+      ],
+      "original_price": null,
+      "original_net_price": null,
+      "item_price_discount_validity_period": null,
+      "price": 35000,
+      "net_price": null,
+      "product_hierarchy_tags": [
+      ],
+      "purchasable_balance": null,
+      "restrictions": [
+      ],
+      "return_policy": null,
+      "sell_by_weight_config": null,
+      "should_display_purchasable_balance": false,
+      "tags": [
+      ],
+      "unit_info": null,
+      "unit_price": null,
+      "variant": null,
+      "vat_category_code": "ALB-10",
+      "vat_percentage": 20,
+      "vat_percentage_decimal": "20.0",
+      "external_compliance_link": null,
+      "consent_info": {
+        "ask_consent": false,
+        "blur_image": false
+      }
+    },
+    {
+      "id": "0b986c9d1f0bcb1b32119d00",
+      "advertising_info": null,
+      "alcohol_permille": 0,
+      "allowed_delivery_methods": [
+        "eatin",
+        "takeaway",
+        "homedelivery"
+      ],
+      "available_times": [
+        {
+          "days": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ],
+          "start_time": 0,
+          "end_time": 86400000
+        }
+      ],
+      "barcode_gtin": null,
+      "caffeine_info": null,
+      "can_be_promoted": {
+        "basket": true,
+        "venue": true,
+        "credits": true
+      },
+      "checksum": "422a4a91f1528168b4331ae119def131",
+      "description": "Chocolate, cookies, bananas",
+      "deposit": null,
+      "dietary_preferences": [
+      ],
+      "disabled_info": null,
+      "fulfillment_lead_time": null,
+      "has_extra_info": false,
+      "images": [
+        {
+          "url": "https://imageproxy.wolt.com/assets/67570e1533d8b646b502f1c1",
+          "blurhash": null
+        }
+      ],
+      "videos": [
+      ],
+      "is_cutlery": false,
+      "is_no_contact_delivery_allowed": true,
+      "is_wolt_plus_only": false,
+      "lowest_price": null,
+      "lowest_price_v2": null,
+      "max_quantity_per_purchase": null,
+      "min_quantity_per_purchase": null,
+      "name": "Lidia with Chocolate",
+      "options": [
+        {
+          "id": "e37842feb082cf1335c94242",
+          "option_id": "4c445cbe4e2fa84a512bfc65",
+          "name": "Add extra",
+          "prerequisite_values": [
+          ],
+          "multi_choice_config": {"total_range": {
+            "min": 0,
+            "max": 14
+          },
+            "max_single_selections": 1,
+            "free_selections": 0
+          }
+        },
+        {
+          "id": "9ebac95025f64c07381d1cfb",
+          "option_id": "2b649d01a9761c117be46233",
+          "name": "Add drink",
+          "prerequisite_values": [
+          ],
+          "multi_choice_config": {
+            "total_range": {
+              "min": 0,
+              "max": 5
+            },
+            "max_single_selections": 1,
+            "free_selections": 0
+          }
+        }
+      ],
+      "original_price": 41000,
+      "original_net_price": null,
+      "item_price_discount_validity_period": null,
+      "price": 37000,
+      "net_price": null,
+      "product_hierarchy_tags": [
+      ],
+      "purchasable_balance": null,
+      "restrictions": [
+      ],
+      "return_policy": null,
+      "sell_by_weight_config": null,
+      "should_display_purchasable_balance": false,
+      "tags": [
+        {
+          "id": "popular",
+          "label": "Popular",
+          "decoration": "star",
+          "color": "primary",
+          "style": {
+            "background_color": "#009de0",
+            "text_color": "#ffffff",
+            "background_color_key": "color-bg-fill-brand",
+            "text_color_key": "color-text-on-bg-fill-brand"
+          }
+        }
+      ],
+      "unit_info": null,
+      "unit_price": null,
+      "variant": null,
+      "vat_category_code": "ALB-10",
+      "vat_percentage": 20,
+      "vat_percentage_decimal": "20.0",
+      "external_compliance_link": null,
+      "consent_info": {
+        "ask_consent": false,
+        "blur_image": false
+      }
+    },
+    {
+      "id": "0dc7094b9099917544497f07",
+      "advertising_info": null,
+      "alcohol_permille": 0,
+      "allowed_delivery_methods": [
+        "eatin",
+        "takeaway",
+        "homedelivery"
+      ],
+      "available_times": [
+        {
+          "days": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ],
+          "start_time": 0,
+          "end_time": 86400000
+        }
+      ],
+      "barcode_gtin": null,
+      "caffeine_info": null,
+      "can_be_promoted": {
+        "basket": true,
+        "venue": true,
+        "credits": true
+      },
+      "checksum": "19f86ec0b15df53921c86cdaa835db87",
+      "description": "",
+      "deposit": null,
+      "dietary_preferences": [
+      ],
+      "disabled_info": null,
+      "fulfillment_lead_time": null,
+      "has_extra_info": false,
+      "images": [
+        {
+          "url": "https://imageproxy.wolt.com/assets/67570e1e33d8b646b502f1cd",
+          "blurhash": null
+        }
+      ],
+      "videos": [
+      ],
+      "is_cutlery": false,
+      "is_no_contact_delivery_allowed": true,
+      "is_wolt_plus_only": false,
+      "lowest_price": null,
+      "lowest_price_v2": null,
+      "max_quantity_per_purchase": null,
+      "min_quantity_per_purchase": null,
+      "name": "Pistachio Waffles",
+      "options": [
+        {
+          "id": "e8856cb3731e518280062861",
+          "option_id": "4c445cbe4e2fa84a512bfc65",
+          "name": "Add extra",
+          "prerequisite_values": [
+          ],
+          "multi_choice_config": {
+            "total_range": {
+              "min": 0,
+              "max": 16
+            },
+            "max_single_selections": 1,
+            "free_selections": 0
+          }
+        }
+      ],
+      "original_price": null,
+      "original_net_price": null,
+      "item_price_discount_validity_period": null,
+      "price": 66000,
+      "net_price": null,
+      "product_hierarchy_tags": [
+      ],
+      "purchasable_balance": null,
+      "restrictions": [
+      ],
+      "return_policy": null,
+      "sell_by_weight_config": null,
+      "should_display_purchasable_balance": false,
+      "tags": [
+      ],
+      "unit_info": null,
+      "unit_price": null,
+      "variant": null,
+      "vat_category_code": "ALB-10",
+      "vat_percentage": 20,
+      "vat_percentage_decimal": "20.0",
+      "external_compliance_link": null,
+      "consent_info": {
+        "ask_consent": false,
+        "blur_image": false
+      }
+    },
+    {
+      "id": "0df343a4257a1236b2a9c37d",
+      "advertising_info": null,
+      "alcohol_permille": 0,
+      "allowed_delivery_methods": [
+        "eatin",
+        "takeaway",
+        "homedelivery"
+      ],
+      "available_times": [
+        {
+          "days": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ],
+          "start_time": 0,
+          "end_time": 86400000
+        }
+      ],
+      "barcode_gtin": null,
+      "caffeine_info": null,
+      "can_be_promoted": {
+        "basket": true,
+        "venue": true,
+        "credits": true
+      },
+      "checksum": "7d8c0c5fbc9a49ac24e77d1dce4efa7f",
+      "description": "Caramel, chocolate, peanut",
+      "deposit": null,
+      "dietary_preferences": [
+      ],
+      "disabled_info": null,
+      "fulfillment_lead_time": null,
+      "has_extra_info": false,
+      "images": [
+        {
+          "url": "https://imageproxy.wolt.com/assets/67570e4d33d8b646b502f1d5",
+          "blurhash": null
+        }
+      ],
+      "videos": [
+      ],
+      "is_cutlery": false,
+      "is_no_contact_delivery_allowed": true,
+      "is_wolt_plus_only": false,
+      "lowest_price": null,
+      "lowest_price_v2": null,
+      "max_quantity_per_purchase": null,
+      "min_quantity_per_purchase": null,
+      "name": "Snickers",
+      "options": [
+        {
+          "id": "ae9c2c6f397d2312fc5beda5",
+          "option_id": "4c445cbe4e2fa84a512bfc65",
+          "name": "Add extra",
+          "prerequisite_values": [
+          ],
+          "multi_choice_config": {
+            "total_range": {
+              "min": 0,
+              "max": 14
+            },
+            "max_single_selections": 1,
+            "free_selections": 0
+          }
+        }
+      ],
+      "original_price": null,
+      "original_net_price": null,
+      "item_price_discount_validity_period": null,
+      "price": 35000,
+      "net_price": null,
+      "product_hierarchy_tags": [
+      ],
+      "purchasable_balance": null,
+      "restrictions": [
+      ],
+      "return_policy": null,
+      "sell_by_weight_config": null,
+      "should_display_purchasable_balance": false,
+      "tags": [
+      ],
+      "unit_info": null,
+      "unit_price": null,
+      "variant": null,
+      "vat_category_code": "ALB-10",
+      "vat_percentage": 20,
+      "vat_percentage_decimal": "20.0",
+      "external_compliance_link": null,
+      "consent_info": {
+        "ask_consent": false,
+        "blur_image": false
+      }
+    },
+    {
+      "id": "134edee48989381ec5d28c5e",
+      "advertising_info": null,
+      "alcohol_permille": 0,
+      "allowed_delivery_methods": [
+        "eatin",
+        "takeaway",
+        "homedelivery"
+      ],
+      "available_times": [
+        {
+          "days": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ],
+          "start_time": 0,
+          "end_time": 86400000
+        }
+      ],
+      "barcode_gtin": null,
+      "caffeine_info": null,
+      "can_be_promoted": {
+        "basket": true,
+        "venue": true,
+        "credits": true
+      },
+      "checksum": "09077d09f89de88664ab70bdc99a34a4",
+      "description": "Ham, guda, philadelphia.",
+      "deposit": null,
+      "dietary_preferences": [
+      ],
+      "disabled_info": null,
+      "fulfillment_lead_time": null,
+      "has_extra_info": true,
+      "images": [
+        {
+          "url": "https://imageproxy.wolt.com/assets/67570e0733d8b646b502f185",
+          "blurhash": null
+        }
+      ],
+      "videos": [
+      ],
+      "is_cutlery": false,
+      "is_no_contact_delivery_allowed": true,
+      "is_wolt_plus_only": false,
+      "lowest_price": null,
+      "lowest_price_v2": null,
+      "max_quantity_per_purchase": null,
+      "min_quantity_per_purchase": null,
+      "name": "Nani",
+      "options": [
+        {
+          "id": "80dc56d3416d3414a3eee3b5",
+          "option_id": "f69d060de2a1303fafbff7dd",
+          "name": "Add extra",
+          "prerequisite_values": [
+          ],
+          "multi_choice_config": {
+            "total_range": {
+              "min": 0,
+              "max": 13
+            },
+            "max_single_selections": 1,
+            "free_selections": 0
+          }
+        }
+      ],
+      "original_price": null,
+      "original_net_price": null,
+      "item_price_discount_validity_period": null,
+      "price": 32000,
+      "net_price": null,
+      "product_hierarchy_tags": [
+      ],
+      "purchasable_balance": null,
+      "restrictions": [
+      ],
+      "return_policy": null,
+      "sell_by_weight_config": null,
+      "should_display_purchasable_balance": false,
+      "tags": [
+        {
+          "id": "popular",
+          "label": "Popular",
+          "decoration": "star",
+          "color": "primary",
+          "style": {
+            "background_color": "#009de0",
+            "text_color": "#ffffff",
+            "background_color_key": "color-bg-fill-brand",
+            "text_color_key": "color-text-on-bg-fill-brand"
+          }
+        }
+      ],
+      "unit_info": null,
+      "unit_price": null,
+      "variant": null,
+      "vat_category_code": null,
+      "vat_percentage": 20,
+      "vat_percentage_decimal": "20.0",
+      "external_compliance_link": null,
+      "consent_info": {
+        "ask_consent": false,
+        "blur_image": false
+      }
+    },
+    {
+      "id": "143b322a6eaf5d05c0f3cfb3",
+      "advertising_info": null,
+      "alcohol_permille": 0,
+      "allowed_delivery_methods": [
+        "eatin",
+        "takeaway",
+        "homedelivery"
+      ],
+      "available_times": [
+        {
+          "days": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ],
+          "start_time": 0,
+          "end_time": 86400000
+        }
+      ],
+      "barcode_gtin": null,
+      "caffeine_info": null,
+      "can_be_promoted": {
+        "basket": true,
+        "venue": true,
+        "credits": true
+      },
+      "checksum": "921e66baca976ca41e1d3496ec02d51b",
+      "description": "Chocolate, strawberries, bananas, kiwi",
+      "deposit": null,
+      "dietary_preferences": [
+      ],
+      "disabled_info": null,
+      "fulfillment_lead_time": null,
+      "has_extra_info": false,
+      "images": [
+        {
+          "url": "https://imageproxy.wolt.com/assets/67570e1933d8b646b502f1c4",
+          "blurhash": null
+        }
+      ],
+      "videos": [
+      ],
+      "is_cutlery": false,
+      "is_no_contact_delivery_allowed": true,
+      "is_wolt_plus_only": false,
+      "lowest_price": null,
+      "lowest_price_v2": null,
+      "max_quantity_per_purchase": null,
+      "min_quantity_per_purchase": null,
+      "name": "Fruit Mix",
+      "options": [
+        {
+          "id": "7028961f126ceaa6a3ab6fc2",
+          "option_id": "4c445cbe4e2fa84a512bfc65",
+          "name": "Add extra",
+          "prerequisite_values": [
+          ],
+          "multi_choice_config": {
+            "total_range": {
+              "min": 0,
+              "max": 14
+            },
+            "max_single_selections": 1,
+            "free_selections": 0
+          }
+        }
+      ],
+      "original_price": null,
+      "original_net_price": null,
+      "item_price_discount_validity_period": null,
+      "price": 45000,
+      "net_price": null,
+      "product_hierarchy_tags": [
+      ],
+      "purchasable_balance": null,
+      "restrictions": [
+      ],
+      "return_policy": null,
+      "sell_by_weight_config": null,
+      "should_display_purchasable_balance": false,
+      "tags": [
+      ],
+      "unit_info": null,
+      "unit_price": null,
+      "variant": null,
+      "vat_category_code": "ALB-10",
+      "vat_percentage": 20,
+      "vat_percentage_decimal": "20.0",
+      "external_compliance_link": null,
+      "consent_info": {
+        "ask_consent": false,
+        "blur_image": false
+      }
+    },
+    {
+      "id": "145a1a0a18868d20612bf870",
+      "advertising_info": null,
+      "alcohol_permille": 0,
+      "allowed_delivery_methods": [
+        "eatin",
+        "takeaway",
+        "homedelivery"
+      ],
+      "available_times": [
+        {
+          "days": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ],
+          "start_time": 0,
+          "end_time": 86400000
+        }
+      ],
+      "barcode_gtin": null,
+      "caffeine_info": null,
+      "can_be_promoted": {
+        "basket": true,
+        "venue": true,
+        "credits": true
+      },
+      "checksum": "23ad824ebb5870040fc2922507921fba",
+      "description": "",
+      "deposit": null,
+      "dietary_preferences": [
+      ],
+      "disabled_info": null,
+      "fulfillment_lead_time": null,
+      "has_extra_info": false,
+      "images": [
+        {
+          "url": "https://imageproxy.wolt.com/assets/675737c5466c2308cf881d5f",
+          "blurhash": null
+        }
+      ],
+      "videos": [
+      ],
+      "is_cutlery": false,
+      "is_no_contact_delivery_allowed": true,
+      "is_wolt_plus_only": false,
+      "lowest_price": null,
+      "lowest_price_v2": null,
+      "max_quantity_per_purchase": null,
+      "min_quantity_per_purchase": null,
+      "name": "Salep",
+      "options": [
+      ],
+      "original_price": null,
+      "original_net_price": null,
+      "item_price_discount_validity_period": null,
+      "price": 18000,
+      "net_price": null,
+      "product_hierarchy_tags": [
+      ],
+      "purchasable_balance": null,
+      "restrictions": [
+      ],
+      "return_policy": null,
+      "sell_by_weight_config": null,
+      "should_display_purchasable_balance": false,
+      "tags": [
+      ],
+      "unit_info": null,
+      "unit_price": null,
+      "variant": null,
+      "vat_category_code": null,
+      "vat_percentage": 20,
+      "vat_percentage_decimal": "20.0",
+      "external_compliance_link": null,
+      "consent_info": {
+        "ask_consent": false,
+        "blur_image": false
+      }
+    },
+    {
+      "id": "183abff4b9b194a2abb97b74",
+      "advertising_info": null,
+      "alcohol_permille": 0,
+      "allowed_delivery_methods": [
+        "eatin",
+        "takeaway",
+        "homedelivery"
+      ],
+      "available_times": [
+        {
+          "days": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ],
+          "start_time": 0,
+          "end_time": 86400000
+        }
+      ],
+      "barcode_gtin": null,
+      "caffeine_info": null,
+      "can_be_promoted": {
+        "basket": true,
+        "venue": true,
+        "credits": true
+      },
+      "checksum": "2d11b8775fd2d3ac76e45896999fdbce",
+      "description": "Guda, pomodorini, sausage, philadelphia milanese, arugula.",
+      "deposit": null,
+      "dietary_preferences": [
+      ],
+      "disabled_info": null,
+      "fulfillment_lead_time": null,
+      "has_extra_info": true,
+      "images": [
+        {
+          "url": "https://imageproxy.wolt.com/assets/67570e0733d8b646b502f188",
+          "blurhash": null
+        }
+      ],
+      "videos": [
+      ],
+      "is_cutlery": false,
+      "is_no_contact_delivery_allowed": true,
+      "is_wolt_plus_only": false,
+      "lowest_price": null,
+      "lowest_price_v2": null,
+      "max_quantity_per_purchase": null,
+      "min_quantity_per_purchase": null,
+      "name": "Milan",
+      "options": [
+        {
+          "id": "0954d4416ed7c13151153519",
+          "option_id": "f69d060de2a1303fafbff7dd",
+          "name": "Add extra",
+          "prerequisite_values": [
+          ],
+          "multi_choice_config": {
+            "total_range": {
+              "min": 0,
+              "max": 13
+            },
+            "max_single_selections": 1,
+            "free_selections": 0
+          }
+        }
+      ],
+      "original_price": null,
+      "original_net_price": null,
+      "item_price_discount_validity_period": null,
+      "price": 45000,
+      "net_price": null,
+      "product_hierarchy_tags": [
+      ],
+      "purchasable_balance": null,
+      "restrictions": [
+      ],
+      "return_policy": null,
+      "sell_by_weight_config": null,
+      "should_display_purchasable_balance": false,
+      "tags": [
+      ],
+      "unit_info": null,
+      "unit_price": null,
+      "variant": null,
+      "vat_category_code": null,
+      "vat_percentage": 20,
+      "vat_percentage_decimal": "20.0",
+      "external_compliance_link": null,
+      "consent_info": {
+        "ask_consent": false,
+        "blur_image": false
+      }
+    },
+    {
+      "id": "1a2f408236c0df0631a89f23",
+      "advertising_info": null,
+      "alcohol_permille": 0,
+      "allowed_delivery_methods": [
+        "eatin",
+        "takeaway",
+        "homedelivery"
+      ],
+      "available_times": [
+        {
+          "days": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ],
+          "start_time": 0,
+          "end_time": 86400000
+        }
+      ],
+      "barcode_gtin": null,
+      "caffeine_info": null,
+      "can_be_promoted": {
+        "basket": true,
+        "venue": true,
+        "credits": true
+      },
+      "checksum": "9d5ccb8d4788135772b02f4375b87f14",
+      "description": "",
+      "deposit": null,
+      "dietary_preferences": [
+      ],
+      "disabled_info": null,
+      "fulfillment_lead_time": null,
+      "has_extra_info": false,
+      "images": [
+        {
+          "url": "https://imageproxy.wolt.com/assets/675736c033d8b646b502f466",
+          "blurhash": null
+        }
+      ],
+      "videos": [
+      ],
+      "is_cutlery": false,
+      "is_no_contact_delivery_allowed": true,
+      "is_wolt_plus_only": false,
+      "lowest_price": null,
+      "lowest_price_v2": null,
+      "max_quantity_per_purchase": null,
+      "min_quantity_per_purchase": null,
+      "name": "Beet Juice",
+      "options": [
+      ],
+      "original_price": null,
+      "original_net_price": null,
+      "item_price_discount_validity_period": null,
+      "price": 30000,
+      "net_price": null,
+      "product_hierarchy_tags": [
+      ],
+      "purchasable_balance": null,
+      "restrictions": [
+      ],
+      "return_policy": null,
+      "sell_by_weight_config": null,
+      "should_display_purchasable_balance": false,
+      "tags": [
+      ],
+      "unit_info": null,
+      "unit_price": null,
+      "variant": null,
+      "vat_category_code": null,
+      "vat_percentage": 20,
+      "vat_percentage_decimal": "20.0",
+      "external_compliance_link": null,
+      "consent_info": {
+        "ask_consent": false,
+        "blur_image": false
+      }
+    },
+    {
+      "id": "1d837b4b0d3d2de02c724f4d",
+      "advertising_info": null,
+      "alcohol_permille": 0,
+      "allowed_delivery_methods": [
+        "eatin",
+        "takeaway",
+        "homedelivery"
+      ],
+      "available_times": [
+        {
+          "days": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ],
+          "start_time": 0,
+          "end_time": 86400000
+        }
+      ],
+      "barcode_gtin": null,
+      "caffeine_info": null,
+      "can_be_promoted": {
+        "basket": true,
+        "venue": true,
+        "credits": true
+      },
+      "checksum": "c0b29a0dfde7e06e0c1be53670563991",
+      "description": "Banana, pineapple, orange, pear",
+      "deposit": null,
+      "dietary_preferences": [
+      ],
+      "disabled_info": null,
+      "fulfillment_lead_time": null,
+      "has_extra_info": false,
+      "images": [
+        {
+          "url": "https://imageproxy.wolt.com/assets/67570e1133d8b646b502f1b4",
+          "blurhash": null
+        }
+      ],
+      "videos": [
+      ],
+      "is_cutlery": false,
+      "is_no_contact_delivery_allowed": true,
+      "is_wolt_plus_only": false,
+      "lowest_price": null,
+      "lowest_price_v2": null,
+      "max_quantity_per_purchase": null,
+      "min_quantity_per_purchase": null,
+      "name": "Simple Smoothie",
+      "options": [
+      ],
+      "original_price": null,
+      "original_net_price": null,
+      "item_price_discount_validity_period": null,
+      "price": 30000,
+      "net_price": null,
+      "product_hierarchy_tags": [
+      ],
+      "purchasable_balance": null,
+      "restrictions": [
+      ],
+      "return_policy": null,
+      "sell_by_weight_config": null,
+      "should_display_purchasable_balance": false,
+      "tags": [
+      ],
+      "unit_info": null,
+      "unit_price": null,
+      "variant": null,
+      "vat_category_code": null,
+      "vat_percentage": 20,
+      "vat_percentage_decimal": "20.0",
+      "external_compliance_link": null,
+      "consent_info": {
+        "ask_consent": false,
+        "blur_image": false
+      }
+    },
+    {
+      "id": "21e9b91068fcbf2e81ea8e56",
+      "advertising_info": null,
+      "alcohol_permille": 0,
+      "allowed_delivery_methods": [
+        "eatin",
+        "takeaway",
+        "homedelivery"
+      ],
+      "available_times": [
+        {
+          "days": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ],
+          "start_time": 0,
+          "end_time": 86400000
+        }
+      ],
+      "barcode_gtin": null,
+      "caffeine_info": null,
+      "can_be_promoted": {
+        "basket": true,
+        "venue": true,
+        "credits": true
+      },
+      "checksum": "e9ad45fcae5b52a492672674428c7253",
+      "description": "White chocolate, coconut, malibu",
+      "deposit": null,
+      "dietary_preferences": [
+      ],
+      "disabled_info": null,
+      "fulfillment_lead_time": null,
+      "has_extra_info": false,
+      "images": [
+        {
+          "url": "https://imageproxy.wolt.com/assets/67570e1933d8b646b502f1c7",
+          "blurhash": null
+        }
+      ],
+      "videos": [
+      ],
+      "is_cutlery": false,
+      "is_no_contact_delivery_allowed": true,
+      "is_wolt_plus_only": false,
+      "lowest_price": null,
+      "lowest_price_v2": null,
+      "max_quantity_per_purchase": null,
+      "min_quantity_per_purchase": null,
+      "name": "Malibu",
+      "options": [
+        {
+          "id": "f1a0e28d83e082f33a2c6d2f",
+          "option_id": "4c445cbe4e2fa84a512bfc65",
+          "name": "Add extra",
+          "prerequisite_values": [
+          ],
+          "multi_choice_config": {
+            "total_range": {
+              "min": 0,
+              "max": 14
+            },
+            "max_single_selections": 1,
+            "free_selections": 0
+          }
+        }
+      ],
+      "original_price": null,
+      "original_net_price": null,
+      "item_price_discount_validity_period": null,
+      "price": 35000,
+      "net_price": null,
+      "product_hierarchy_tags": [
+      ],
+      "purchasable_balance": null,
+      "restrictions": [
+      ],
+      "return_policy": null,
+      "sell_by_weight_config": null,
+      "should_display_purchasable_balance": false,
+      "tags": [
+      ],
+      "unit_info": null,
+      "unit_price": null,
+      "variant": null,
+      "vat_category_code": "ALB-10",
+      "vat_percentage": 20,
+      "vat_percentage_decimal": "20.0",
+      "external_compliance_link": null,
+      "consent_info": {
+        "ask_consent": false,
+        "blur_image": false
+      }
+    },
+    {
+      "id": "25932d687224bf2f120d343e",
+      "advertising_info": null,
+      "alcohol_permille": 0,
+      "allowed_delivery_methods": [
+        "eatin",
+        "takeaway",
+        "homedelivery"
+      ],
+      "available_times": [
+        {
+          "days": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ],
+          "start_time": 0,
+          "end_time": 86400000
+        }
+      ],
+      "barcode_gtin": null,
+      "caffeine_info": null,
+      "can_be_promoted": {
+        "basket": true,
+        "venue": true,
+        "credits": true
+      },
+      "checksum": "ff3687ae0ebe3d97a651e0e64a7005be",
+      "description": "",
+      "deposit": null,
+      "dietary_preferences": [
+      ],
+      "disabled_info": null,
+      "fulfillment_lead_time": null,
+      "has_extra_info": false,
+      "images": [
+        {
+          "url": "https://imageproxy.wolt.com/assets/675736307ae9d2068cb6c53a",
+          "blurhash": null
+        }
+      ],
+      "videos": [
+      ],
+      "is_cutlery": false,
+      "is_no_contact_delivery_allowed": true,
+      "is_wolt_plus_only": false,
+      "lowest_price": null,
+      "lowest_price_v2": null,
+      "max_quantity_per_purchase": null,
+      "min_quantity_per_purchase": null,
+      "name": "Carrot Juice",
+      "options": [
+      ],
+      "original_price": null,
+      "original_net_price": null,
+      "item_price_discount_validity_period": null,
+      "price": 30000,
+      "net_price": null,
+      "product_hierarchy_tags": [
+      ],
+      "purchasable_balance": null,
+      "restrictions": [
+      ],
+      "return_policy": null,
+      "sell_by_weight_config": null,
+      "should_display_purchasable_balance": false,
+      "tags": [
+      ],
+      "unit_info": null,
+      "unit_price": null,
+      "variant": null,
+      "vat_category_code": null,
+      "vat_percentage": 20,
+      "vat_percentage_decimal": "20.0",
+      "external_compliance_link": null,
+      "consent_info": {
+        "ask_consent": false,
+        "blur_image": false
+      }
+    },
+    {
+      "id": "25c399cf43c10e85e3fbd3ec",
+      "advertising_info": null,
+      "alcohol_permille": 0,
+      "allowed_delivery_methods": [
+        "eatin",
+        "takeaway",
+        "homedelivery"
+      ],
+      "available_times": [
+        {
+          "days": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ],
+          "start_time": 0,
+          "end_time": 86400000
+        }
+      ],
+      "barcode_gtin": null,
+      "caffeine_info": null,
+      "can_be_promoted": {
+        "basket": true,
+        "venue": true,
+        "credits": true
+      },
+      "checksum": "9c6292b105ac9713e08497215d33b891",
+      "description": "White chocolate, kahlua, nuts",
+      "deposit": null,
+      "dietary_preferences": [
+      ],
+      "disabled_info": null,
+      "fulfillment_lead_time": null,
+      "has_extra_info": false,
+      "images": [
+        {
+          "url": "https://imageproxy.wolt.com/assets/67570e1533d8b646b502f1c0",
+          "blurhash": null
+        }
+      ],
+      "videos": [
+      ],
+      "is_cutlery": false,
+      "is_no_contact_delivery_allowed": true,
+      "is_wolt_plus_only": false,
+      "lowest_price": null,
+      "lowest_price_v2": null,
+      "max_quantity_per_purchase": null,
+      "min_quantity_per_purchase": null,
+      "name": "Kahlua",
+      "options": [
+        {
+          "id": "414463b7b575938b5854b53c",
+          "option_id": "4c445cbe4e2fa84a512bfc65",
+          "name": "Add extra",
+          "prerequisite_values": [
+          ],
+          "multi_choice_config": {
+            "total_range": {
+              "min": 0,
+              "max": 14
+            },
+            "max_single_selections": 1,
+            "free_selections": 0
+          }
+        }
+      ],
+      "original_price": null,
+      "original_net_price": null,
+      "item_price_discount_validity_period": null,
+      "price": 35000,
+      "net_price": null,
+      "product_hierarchy_tags": [
+      ],
+      "purchasable_balance": null,
+      "restrictions": [
+      ],
+      "return_policy": null,
+      "sell_by_weight_config": null,
+      "should_display_purchasable_balance": false,
+      "tags": [
+      ],
+      "unit_info": null,
+      "unit_price": null,
+      "variant": null,
+      "vat_category_code": "ALB-10",
+      "vat_percentage": 20,
+      "vat_percentage_decimal": "20.0",
+      "external_compliance_link": null,
+      "consent_info": {
+        "ask_consent": false,
+        "blur_image": false
+      }
+    },
+    {
+      "id": "2618e988897ce0b31150c4a1",
+      "advertising_info": null,
+      "alcohol_permille": 0,
+      "allowed_delivery_methods": [
+        "eatin",
+        "takeaway",
+        "homedelivery"
+      ],
+      "available_times": [
+        {
+          "days": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ],
+          "start_time": 0,
+          "end_time": 86400000
+        }
+      ],
+      "barcode_gtin": null,
+      "caffeine_info": null,
+      "can_be_promoted": {
+        "basket": true,
+        "venue": true,
+        "credits": true
+      },
+      "checksum": "52ac3e877e8a1ee2ba4d9891f26e0553",
+      "description": "",
+      "deposit": null,
+      "dietary_preferences": [
+      ],
+      "disabled_info": null,
+      "fulfillment_lead_time": null,
+      "has_extra_info": false,
+      "images": [
+        {
+          "url": "https://imageproxy.wolt.com/assets/67570e0733d8b646b502f189",
+          "blurhash": null
+        }
+      ],
+      "videos": [
+      ],
+      "is_cutlery": false,
+      "is_no_contact_delivery_allowed": true,
+      "is_wolt_plus_only": false,
+      "lowest_price": null,
+      "lowest_price_v2": null,
+      "max_quantity_per_purchase": null,
+      "min_quantity_per_purchase": null,
+      "name": "Orange Juice.",
+      "options": [
+      ],
+      "original_price": null,
+      "original_net_price": null,
+      "item_price_discount_validity_period": null,
+      "price": 30000,
+      "net_price": null,
+      "product_hierarchy_tags": [
+      ],
+      "purchasable_balance": null,
+      "restrictions": [
+      ],
+      "return_policy": null,
+      "sell_by_weight_config": null,
+      "should_display_purchasable_balance": false,
+      "tags": [
+      ],
+      "unit_info": null,
+      "unit_price": null,
+      "variant": null,
+      "vat_category_code": null,
+      "vat_percentage": 20,
+      "vat_percentage_decimal": "20.0",
+      "external_compliance_link": null,
+      "consent_info": {
+        "ask_consent": false,
+        "blur_image": false
+      }
+    },
+    {
+      "id": "26f2898c2aaf611a62813a9b",
+      "advertising_info": null,
+      "alcohol_permille": 0,
+      "allowed_delivery_methods": [
+        "eatin",
+        "takeaway",
+        "homedelivery"
+      ],
+      "available_times": [
+        {
+          "days": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ],
+          "start_time": 0,
+          "end_time": 86400000
+        }
+      ],
+      "barcode_gtin": null,
+      "caffeine_info": null,
+      "can_be_promoted": {
+        "basket": true,
+        "venue": true,
+        "credits": true
+      },
+      "checksum": "34e15b70a91e44b9a2ba9cd459a2bdec",
+      "description": "",
+      "deposit": null,
+      "dietary_preferences": [
+      ],
+      "disabled_info": null,
+      "fulfillment_lead_time": null,
+      "has_extra_info": false,
+      "images": [
+        {
+          "url": "https://imageproxy.wolt.com/assets/67570e1133d8b646b502f1b5",
+          "blurhash": null
+        }
+      ],
+      "videos": [
+      ],
+      "is_cutlery": false,
+      "is_no_contact_delivery_allowed": true,
+      "is_wolt_plus_only": false,
+      "lowest_price": null,
+      "lowest_price_v2": null,
+      "max_quantity_per_purchase": null,
+      "min_quantity_per_purchase": null,
+      "name": "Toast",
+      "options": [
+      ],
+      "original_price": null,
+      "original_net_price": null,
+      "item_price_discount_validity_period": null,
+      "price": 15000,
+      "net_price": null,
+      "product_hierarchy_tags": [
+      ],
+      "purchasable_balance": null,
+      "restrictions": [
+      ],
+      "return_policy": null,
+      "sell_by_weight_config": null,
+      "should_display_purchasable_balance": false,
+      "tags": [
+      ],
+      "unit_info": null,
+      "unit_price": null,
+      "variant": null,
+      "vat_category_code": null,
+      "vat_percentage": 20,
+      "vat_percentage_decimal": "20.0",
+      "external_compliance_link": null,
+      "consent_info": {
+        "ask_consent": false,
+        "blur_image": false
+      }
+    },
+    {
+      "id": "299b131e315f579add2f860e",
+      "advertising_info": null,
+      "alcohol_permille": 0,
+      "allowed_delivery_methods": [
+        "eatin",
+        "takeaway",
+        "homedelivery"
+      ],
+      "available_times": [
+        {
+          "days": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ],
+          "start_time": 0,
+          "end_time": 86400000
+        }
+      ],
+      "barcode_gtin": null,
+      "caffeine_info": null,
+      "can_be_promoted": {
+        "basket": true,
+        "venue": true,
+        "credits": true
+      },
+      "checksum": "a8ef4a7698209652e6dfe91917179152",
+      "description": "",
+      "deposit": null,
+      "dietary_preferences": [
+      ],
+      "disabled_info": null,
+      "fulfillment_lead_time": null,
+      "has_extra_info": false,
+      "images": [
+        {
+          "url": "https://imageproxy.wolt.com/assets/6757366c33d8b646b502f463",
+          "blurhash": null
+        }
+      ],
+      "videos": [
+      ],
+      "is_cutlery": false,
+      "is_no_contact_delivery_allowed": true,
+      "is_wolt_plus_only": false,
+      "lowest_price": null,
+      "lowest_price_v2": null,
+      "max_quantity_per_purchase": null,
+      "min_quantity_per_purchase": null,
+      "name": "Pear Juice",
+      "options": [
+      ],
+      "original_price": null,
+      "original_net_price": null,
+      "item_price_discount_validity_period": null,
+      "price": 35000,
+      "net_price": null,
+      "product_hierarchy_tags": [
+      ],
+      "purchasable_balance": null,
+      "restrictions": [
+      ],
+      "return_policy": null,
+      "sell_by_weight_config": null,
+      "should_display_purchasable_balance": false,
+      "tags": [
+      ],
+      "unit_info": null,
+      "unit_price": null,
+      "variant": null,
+      "vat_category_code": null,
+      "vat_percentage": 20,
+      "vat_percentage_decimal": "20.0",
+      "external_compliance_link": null,
+      "consent_info": {
+        "ask_consent": false,
+        "blur_image": false
+      }
+    },
+    {
+      "id": "31ab9a36a536b41792f78bab",
+      "advertising_info": null,
+      "alcohol_permille": 0,
+      "allowed_delivery_methods": [
+        "eatin",
+        "takeaway",
+        "homedelivery"
+      ],
+      "available_times": [
+        {
+          "days": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ],
+          "start_time": 0,
+          "end_time": 86400000
+        }
+      ],
+      "barcode_gtin": null,
+      "caffeine_info": null,
+      "can_be_promoted": {
+        "basket": true,
+        "venue": true,
+        "credits": true
+      },
+      "checksum": "c740c6c1b7feaccfbe09e66e7da66a9a",
+      "description": "",
+      "deposit": null,
+      "dietary_preferences": [
+      ],
+      "disabled_info": null,
+      "fulfillment_lead_time": null,
+      "has_extra_info": false,
+      "images": [
+        {
+          "url": "https://imageproxy.wolt.com/assets/675735cd33d8b646b502f454",
+          "blurhash": "j1WZOuKSZwOYXiGGhullMMtWfvCC"
+        }
+      ],
+      "videos": [
+      ],
+      "is_cutlery": false,
+      "is_no_contact_delivery_allowed": true,
+      "is_wolt_plus_only": false,
+      "lowest_price": null,
+      "lowest_price_v2": null,
+      "max_quantity_per_purchase": null,
+      "min_quantity_per_purchase": null,
+      "name": "Water With Vitamins",
+      "options": [
+      ],
+      "original_price": null,
+      "original_net_price": null,
+      "item_price_discount_validity_period": null,
+      "price": 15000,
+      "net_price": null,
+      "product_hierarchy_tags": [
+      ],
+      "purchasable_balance": null,
+      "restrictions": [
+      ],
+      "return_policy": null,
+      "sell_by_weight_config": null,
+      "should_display_purchasable_balance": false,
+      "tags": [
+      ],
+      "unit_info": null,
+      "unit_price": null,
+      "variant": null,
+      "vat_category_code": null,
+      "vat_percentage": 20,
+      "vat_percentage_decimal": "20.0",
+      "external_compliance_link": null,
+      "consent_info": {
+        "ask_consent": false,
+        "blur_image": false
+      }
+    },
+    {
+      "id": "3afa4e49008258f8ccd673e0",
+      "advertising_info": null,
+      "alcohol_permille": 0,
+      "allowed_delivery_methods": [
+        "eatin",
+        "takeaway",
+        "homedelivery"
+      ],
+      "available_times": [
+        {
+          "days": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ],
+          "start_time": 0,
+          "end_time": 86400000
+        }
+      ],
+      "barcode_gtin": null,
+      "caffeine_info": null,
+      "can_be_promoted": {"basket": true,
+        "venue": true,
+        "credits": true
+      },
+      "checksum": "63cd9c08a7604b552a81aea4cf252e8d",
+      "description": "",
+      "deposit": null,
+      "dietary_preferences": [
+      ],
+      "disabled_info": null,
+      "fulfillment_lead_time": null,
+      "has_extra_info": false,
+      "images": [
+        {
+          "url": "https://imageproxy.wolt.com/assets/67570e1133d8b646b502f1b2",
+          "blurhash": null
+        }
+      ],
+      "videos": [
+      ],
+      "is_cutlery": false,
+      "is_no_contact_delivery_allowed": true,
+      "is_wolt_plus_only": false,
+      "lowest_price": null,
+      "lowest_price_v2": null,
+      "max_quantity_per_purchase": null,
+      "min_quantity_per_purchase": null,
+      "name": "The Juice Of Life",
+      "options": [
+      ],
+      "original_price": null,
+      "original_net_price": null,
+      "item_price_discount_validity_period": null,
+      "price": 30000,
+      "net_price": null,
+      "product_hierarchy_tags": [
+      ],
+      "purchasable_balance": null,
+      "restrictions": [
+      ],
+      "return_policy": null,
+      "sell_by_weight_config": null,
+      "should_display_purchasable_balance": false,
+      "tags": [
+      ],
+      "unit_info": null,
+      "unit_price": null,
+      "variant": null,
+      "vat_category_code": null,
+      "vat_percentage": 20,
+      "vat_percentage_decimal": "20.0",
+      "external_compliance_link": null,
+      "consent_info": {
+        "ask_consent": false,
+        "blur_image": false
+      }
+    },
+    {
+      "id": "3e76f68a458bd9441a2cac6d",
+      "advertising_info": null,
+      "alcohol_permille": 0,
+      "allowed_delivery_methods": [
+        "eatin",
+        "takeaway",
+        "homedelivery"
+      ],
+      "available_times": [
+        {
+          "days": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ],
+          "start_time": 0,
+          "end_time": 86400000
+        }
+      ],
+      "barcode_gtin": null,
+      "caffeine_info": null,
+      "can_be_promoted": {
+        "basket": true,
+        "venue": true,
+        "credits": true
+      },
+      "checksum": "861be17607f5a8dfa47ebdd1f86e3342",
+      "description": "Chicken. Mushrooms, tomato salad, philadelphia, guda.",
+      "deposit": null,
+      "dietary_preferences": [
+      ],
+      "disabled_info": null,
+      "fulfillment_lead_time": null,
+      "has_extra_info": true,
+      "images": [
+        {
+          "url": "https://imageproxy.wolt.com/assets/67570e0c33d8b646b502f19d",
+          "blurhash": null
+        }
+      ],
+      "videos": [
+      ],
+      "is_cutlery": false,
+      "is_no_contact_delivery_allowed": true,
+      "is_wolt_plus_only": false,
+      "lowest_price": null,
+      "lowest_price_v2": null,
+      "max_quantity_per_purchase": null,
+      "min_quantity_per_purchase": null,
+      "name": "Chicken fillet",
+      "options": [
+        {
+          "id": "df51202aabd4bf44b85b667f",
+          "option_id": "f69d060de2a1303fafbff7dd",
+          "name": "Add extra",
+          "prerequisite_values": [
+          ],
+          "multi_choice_config": {
+            "total_range": {
+              "min": 0,
+              "max": 13
+            },
+            "max_single_selections": 1,
+            "free_selections": 0
+          }
+        }
+      ],
+      "original_price": null,
+      "original_net_price": null,
+      "item_price_discount_validity_period": null,
+      "price": 35000,
+      "net_price": null,
+      "product_hierarchy_tags": [
+      ],
+      "purchasable_balance": null,
+      "restrictions": [
+      ],
+      "return_policy": null,
+      "sell_by_weight_config": null,
+      "should_display_purchasable_balance": false,
+      "tags": [
+      ],
+      "unit_info": null,
+      "unit_price": null,
+      "variant": null,
+      "vat_category_code": null,
+      "vat_percentage": 20,
+      "vat_percentage_decimal": "20.0",
+      "external_compliance_link": null,
+      "consent_info": {
+        "ask_consent": false,
+        "blur_image": false
+      }
+    },
+    {
+      "id": "3e8436c4f5678a2d3588bf6f",
+      "advertising_info": null,
+      "alcohol_permille": 0,
+      "allowed_delivery_methods": [
+        "eatin",
+        "takeaway",
+        "homedelivery"
+      ],
+      "available_times": [
+        {
+          "days": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ],
+          "start_time": 0,
+          "end_time": 86400000
+        }
+      ],
+      "barcode_gtin": null,
+      "caffeine_info": null,
+      "can_be_promoted": {
+        "basket": true,
+        "venue": true,
+        "credits": true
+      },
+      "checksum": "3812ab83d4f0b291e28b80fdf04d5627",
+      "description": "",
+      "deposit": null,
+      "dietary_preferences": [
+      ],
+      "disabled_info": null,
+      "fulfillment_lead_time": null,
+      "has_extra_info": false,
+      "images": [
+        {
+          "url": "https://imageproxy.wolt.com/assets/675734c1466c2308cf881d46",
+          "blurhash": "j7VZirPb;Ph5PblmlCKWXClm8HKW"
+        }
+      ],
+      "videos": [
+      ],
+      "is_cutlery": false,
+      "is_no_contact_delivery_allowed": true,
+      "is_wolt_plus_only": false,
+      "lowest_price": null,
+      "lowest_price_v2": null,
+      "max_quantity_per_purchase": null,
+      "min_quantity_per_purchase": null,
+      "name": "Redbull",
+      "options": [
+      ],
+      "original_price": null,
+      "original_net_price": null,
+      "item_price_discount_validity_period": null,
+      "price": 35000,
+      "net_price": null,
+      "product_hierarchy_tags": [
+      ],
+      "purchasable_balance": null,
+      "restrictions": [
+      ],
+      "return_policy": null,
+      "sell_by_weight_config": null,
+      "should_display_purchasable_balance": false,
+      "tags": [
+      ],
+      "unit_info": null,
+      "unit_price": null,
+      "variant": null,
+      "vat_category_code": null,
+      "vat_percentage": 20,
+      "vat_percentage_decimal": "20.0",
+      "external_compliance_link": null,
+      "consent_info": {
+        "ask_consent": false,
+        "blur_image": false
+      }
+    },
+    {
+      "id": "43495ce7503bb6be821c7afd",
+      "advertising_info": null,
+      "alcohol_permille": 0,
+      "allowed_delivery_methods": [
+        "eatin",
+        "takeaway",
+        "homedelivery"
+      ],
+      "available_times": [
+        {
+          "days": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ],
+          "start_time": 0,
+          "end_time": 86400000
+        }
+      ],
+      "barcode_gtin": null,
+      "caffeine_info": null,
+      "can_be_promoted": {
+        "basket": true,
+        "venue": true,
+        "credits": true
+      },
+      "checksum": "1f5a4ba3e8f8d02c7dc81d586440d10f",
+      "description": "",
+      "deposit": null,
+      "dietary_preferences": [
+      ],
+      "disabled_info": null,
+      "fulfillment_lead_time": null,
+      "has_extra_info": false,
+      "images": [
+      ],
+      "videos": [
+      ],
+      "is_cutlery": false,
+      "is_no_contact_delivery_allowed": true,
+      "is_wolt_plus_only": false,
+      "lowest_price": null,
+      "lowest_price_v2": null,
+      "max_quantity_per_purchase": null,
+      "min_quantity_per_purchase": null,
+      "name": "Lemon Juice",
+      "options": [
+      ],
+      "original_price": null,
+      "original_net_price": null,
+      "item_price_discount_validity_period": null,
+      "price": 30000,
+      "net_price": null,
+      "product_hierarchy_tags": [
+      ],
+      "purchasable_balance": null,
+      "restrictions": [
+      ],
+      "return_policy": null,
+      "sell_by_weight_config": null,
+      "should_display_purchasable_balance": false,
+      "tags": [
+      ],
+      "unit_info": null,
+      "unit_price": null,
+      "variant": null,
+      "vat_category_code": null,
+      "vat_percentage": 20,
+      "vat_percentage_decimal": "20.0",
+      "external_compliance_link": null,
+      "consent_info": {
+        "ask_consent": false,
+        "blur_image": false
+      }
+    },
+    {
+      "id": "485e7549b6cab104412256a2",
+      "advertising_info": null,
+      "alcohol_permille": 0,
+      "allowed_delivery_methods": [
+        "eatin",
+        "takeaway",
+        "homedelivery"
+      ],
+      "available_times": [
+        {
+          "days": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ],
+          "start_time": 0,
+          "end_time": 86400000
+        }
+      ],
+      "barcode_gtin": null,
+      "caffeine_info": null,
+      "can_be_promoted": {
+        "basket": true,
+        "venue": true,
+        "credits": true
+      },
+      "checksum": "18af6ac7f177345fb22835aeb90a67ba",
+      "description": "",
+      "deposit": null,
+      "dietary_preferences": [
+      ],
+      "disabled_info": null,
+      "fulfillment_lead_time": null,
+      "has_extra_info": false,
+      "images": [
+      ],
+      "videos": [
+      ],
+      "is_cutlery": false,
+      "is_no_contact_delivery_allowed": true,
+      "is_wolt_plus_only": false,
+      "lowest_price": null,
+      "lowest_price_v2": null,
+      "max_quantity_per_purchase": null,
+      "min_quantity_per_purchase": null,
+      "name": "Rose Lemonade",
+      "options": [
+      ],
+      "original_price": null,
+      "original_net_price": null,
+      "item_price_discount_validity_period": null,
+      "price": 45000,
+      "net_price": null,
+      "product_hierarchy_tags": [
+      ],
+      "purchasable_balance": null,
+      "restrictions": [
+      ],
+      "return_policy": null,
+      "sell_by_weight_config": null,
+      "should_display_purchasable_balance": false,
+      "tags": [
+      ],
+      "unit_info": null,
+      "unit_price": null,
+      "variant": null,
+      "vat_category_code": null,
+      "vat_percentage": 20,
+      "vat_percentage_decimal": "20.0",
+      "external_compliance_link": null,
+      "consent_info": {
+        "ask_consent": false,
+        "blur_image": false
+      }
+    },
+    {
+      "id": "48fbbabeb285cd2fc210a8f0",
+      "advertising_info": null,
+      "alcohol_permille": 0,
+      "allowed_delivery_methods": [
+        "eatin",
+        "takeaway",
+        "homedelivery"
+      ],
+      "available_times": [
+        {
+          "days": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ],
+          "start_time": 0,
+          "end_time": 86400000
+        }
+      ],
+      "barcode_gtin": null,
+      "caffeine_info": null,
+      "can_be_promoted": {
+        "basket": true,
+        "venue": true,
+        "credits": true
+      },
+      "checksum": "73e076f50718a8a742f57efc7724deaf",
+      "description": "",
+      "deposit": null,
+      "dietary_preferences": [
+      ],
+      "disabled_info": null,
+      "fulfillment_lead_time": null,
+      "has_extra_info": false,
+      "images": [
+        {
+          "url": "https://imageproxy.wolt.com/assets/6757349f33d8b646b502f444",
+          "blurhash": null
+        }
+      ],
+      "videos": [
+      ],
+      "is_cutlery": false,
+      "is_no_contact_delivery_allowed": true,
+      "is_wolt_plus_only": false,
+      "lowest_price": null,
+      "lowest_price_v2": null,
+      "max_quantity_per_purchase": null,
+      "min_quantity_per_purchase": null,
+      "name": "Rose",
+      "options": [
+      ],
+      "original_price": null,
+      "original_net_price": null,
+      "item_price_discount_validity_period": null,
+      "price": 35000,
+      "net_price": null,
+      "product_hierarchy_tags": [
+      ],
+      "purchasable_balance": null,
+      "restrictions": [
+      ],
+      "return_policy": null,
+      "sell_by_weight_config": null,
+      "should_display_purchasable_balance": false,
+      "tags": [
+      ],
+      "unit_info": null,
+      "unit_price": null,
+      "variant": null,
+      "vat_category_code": null,
+      "vat_percentage": 20,
+      "vat_percentage_decimal": "20.0",
+      "external_compliance_link": null,
+      "consent_info": {
+        "ask_consent": false,
+        "blur_image": false
+      }
+    },
+    {
+      "id": "4d23cd00dfce53b2f9b375b6",
+      "advertising_info": null,
+      "alcohol_permille": 0,
+      "allowed_delivery_methods": [
+        "eatin",
+        "takeaway",
+        "homedelivery"
+      ],
+      "available_times": [
+        {
+          "days": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ],
+          "start_time": 0,
+          "end_time": 86400000
+        }
+      ],
+      "barcode_gtin": null,
+      "caffeine_info": null,
+      "can_be_promoted": {
+        "basket": true,
+        "venue": true,
+        "credits": true
+      },
+      "checksum": "1f429024ee6626f5bf48d17f2ad89381",
+      "description": "",
+      "deposit": null,
+      "dietary_preferences": [
+      ],
+      "disabled_info": null,
+      "fulfillment_lead_time": null,
+      "has_extra_info": false,
+      "images": [
+        {
+          "url": "https://imageproxy.wolt.com/assets/675732fa466c2308cf881d3a",
+          "blurhash": null
+        }
+      ],
+      "videos": [
+      ],
+      "is_cutlery": false,
+      "is_no_contact_delivery_allowed": true,
+      "is_wolt_plus_only": false,
+      "lowest_price": null,
+      "lowest_price_v2": null,
+      "max_quantity_per_purchase": null,
+      "min_quantity_per_purchase": null,
+      "name": "Iced Tea",
+      "options": [
+      ],
+      "original_price": null,
+      "original_net_price": null,
+      "item_price_discount_validity_period": null,
+      "price": 20000,
+      "net_price": null,
+      "product_hierarchy_tags": [
+      ],
+      "purchasable_balance": null,
+      "restrictions": [
+      ],
+      "return_policy": null,
+      "sell_by_weight_config": null,
+      "should_display_purchasable_balance": false,
+      "tags": [
+      ],
+      "unit_info": null,
+      "unit_price": null,
+      "variant": null,
+      "vat_category_code": null,
+      "vat_percentage": 20,
+      "vat_percentage_decimal": "20.0",
+      "external_compliance_link": null,
+      "consent_info": {
+        "ask_consent": false,
+        "blur_image": false
+      }
+    },
+    {
+      "id": "4e1f26bb02e30d14135f70db",
+      "advertising_info": null,
+      "alcohol_permille": 0,
+      "allowed_delivery_methods": [
+        "eatin",
+        "takeaway",
+        "homedelivery"
+      ],
+      "available_times": [
+        {
+          "days": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ],
+          "start_time": 0,
+          "end_time": 86400000
+        }
+      ],
+      "barcode_gtin": null,
+      "caffeine_info": null,
+      "can_be_promoted": {
+        "basket": true,
+        "venue": true,
+        "credits": true
+      },
+      "checksum": "0769f5935f9595d4f2891cf5639d2a68",
+      "description": "",
+      "deposit": null,
+      "dietary_preferences": [
+      ],
+      "disabled_info": null,
+      "fulfillment_lead_time": null,
+      "has_extra_info": false,
+      "images": [
+        {
+          "url": "https://imageproxy.wolt.com/assets/682c351b7957faa8599ca5a6",
+          "blurhash": null
+        }
+      ],
+      "videos": [
+      ],
+      "is_cutlery": false,
+      "is_no_contact_delivery_allowed": true,
+      "is_wolt_plus_only": false,
+      "lowest_price": null,
+      "lowest_price_v2": null,
+      "max_quantity_per_purchase": null,
+      "min_quantity_per_purchase": null,
+      "name": "Lidia Chocolate + Orange Juice",
+      "options": [
+      ],
+      "original_price": null,
+      "original_net_price": null,
+      "item_price_discount_validity_period": null,
+      "price": 60000,
+      "net_price": null,
+      "product_hierarchy_tags": [
+      ],
+      "purchasable_balance": null,
+      "restrictions": [
+      ],
+      "return_policy": null,
+      "sell_by_weight_config": null,
+      "should_display_purchasable_balance": false,
+      "tags": [
+      ],
+      "unit_info": null,
+      "unit_price": null,
+      "variant": null,
+      "vat_category_code": "ALB-10",
+      "vat_percentage": 20,
+      "vat_percentage_decimal": "20.0",
+      "external_compliance_link": null,
+      "consent_info": {
+        "ask_consent": false,
+        "blur_image": false
+      }
+    },
+    {
+      "id": "51527a760c7305ab1ba90e45",
+      "advertising_info": null,
+      "alcohol_permille": 0,
+      "allowed_delivery_methods": [
+        "eatin",
+        "takeaway",
+        "homedelivery"
+      ],
+      "available_times": [
+        {
+          "days": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ],
+          "start_time": 0,
+          "end_time": 86400000
+        }
+      ],
+      "barcode_gtin": null,
+      "caffeine_info": null,
+      "can_be_promoted": {
+        "basket": true,
+        "venue": true,
+        "credits": true
+      },
+      "checksum": "2e3677aff73ede9338aeec60ca52441a",
+      "description": "Guda, ham, tomato, sauce, cheese.",
+      "deposit": null,
+      "dietary_preferences": [
+      ],
+      "disabled_info": null,
+      "fulfillment_lead_time": null,
+      "has_extra_info": true,
+      "images": [
+        {
+          "url": "https://imageproxy.wolt.com/assets/67570e0733d8b646b502f186",
+          "blurhash": null
+        }
+      ],
+      "videos": [
+      ],
+      "is_cutlery": false,
+      "is_no_contact_delivery_allowed": true,
+      "is_wolt_plus_only": false,
+      "lowest_price": null,
+      "lowest_price_v2": null,
+      "max_quantity_per_purchase": null,
+      "min_quantity_per_purchase": null,
+      "name": "Lunch",
+      "options": [
+        {
+          "id": "6c4c0a8e5e379fa7c67af252",
+          "option_id": "f69d060de2a1303fafbff7dd",
+          "name": "Add extra",
+          "prerequisite_values": [
+          ],
+          "multi_choice_config": {
+            "total_range": {
+              "min": 0,
+              "max": 13
+            },
+            "max_single_selections": 1,
+            "free_selections": 0}
+        }
+      ],
+      "original_price": null,
+      "original_net_price": null,
+      "item_price_discount_validity_period": null,
+      "price": 33000,
+      "net_price": null,
+      "product_hierarchy_tags": [
+      ],
+      "purchasable_balance": null,
+      "restrictions": [
+      ],
+      "return_policy": null,
+      "sell_by_weight_config": null,
+      "should_display_purchasable_balance": false,
+      "tags": [
+      ],
+      "unit_info": null,
+      "unit_price": null,
+      "variant": null,
+      "vat_category_code": null,
+      "vat_percentage": 20,
+      "vat_percentage_decimal": "20.0",
+      "external_compliance_link": null,
+      "consent_info": {
+        "ask_consent": false,
+        "blur_image": false
+      }
+    },
+    {
+      "id": "517e2af96b2d5e1aec965f7c",
+      "advertising_info": null,
+      "alcohol_permille": 0,
+      "allowed_delivery_methods": [
+        "eatin",
+        "takeaway",
+        "homedelivery"
+      ],
+      "available_times": [
+        {
+          "days": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ],
+          "start_time": 0,
+          "end_time": 86400000
+        }
+      ],
+      "barcode_gtin": null,
+      "caffeine_info": null,
+      "can_be_promoted": {
+        "basket": true,
+        "venue": true,
+        "credits": true
+      },
+      "checksum": "4301ec06398bb96eddf70e1af21c94e7",
+      "description": "",
+      "deposit": null,
+      "dietary_preferences": [
+      ],
+      "disabled_info": null,
+      "fulfillment_lead_time": null,
+      "has_extra_info": false,
+      "images": [
+        {
+          "url": "https://imageproxy.wolt.com/assets/68cc8ab4ff4f559d9cad1071",
+          "blurhash": null
+        }
+      ],
+      "videos": [
+      ],
+      "is_cutlery": false,
+      "is_no_contact_delivery_allowed": true,
+      "is_wolt_plus_only": false,
+      "lowest_price": null,
+      "lowest_price_v2": null,
+      "max_quantity_per_purchase": null,
+      "min_quantity_per_purchase": null,
+      "name": " Waffles Pistachio + Fruit Juice",
+      "options": [
+      ],
+      "original_price": null,
+      "original_net_price": null,
+      "item_price_discount_validity_period": null,
+      "price": 91000,
+      "net_price": null,
+      "product_hierarchy_tags": [
+      ],
+      "purchasable_balance": null,
+      "restrictions": [
+      ],
+      "return_policy": null,
+      "sell_by_weight_config": null,
+      "should_display_purchasable_balance": false,
+      "tags": [
+      ],
+      "unit_info": null,
+      "unit_price": null,
+      "variant": null,
+      "vat_category_code": "ALB-10",
+      "vat_percentage": 20,
+      "vat_percentage_decimal": "20.0",
+      "external_compliance_link": null,
+      "consent_info": {
+        "ask_consent": false,
+        "blur_image": false
+      }
+    },
+    {
+      "id": "53f5b6acc8afdd35770e31ed",
+      "advertising_info": null,
+      "alcohol_permille": 0,
+      "allowed_delivery_methods": [
+        "eatin",
+        "takeaway",
+        "homedelivery"
+      ],
+      "available_times": [
+        {
+          "days": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ],
+          "start_time": 0,
+          "end_time": 86400000
+        }
+      ],
+      "barcode_gtin": null,
+      "caffeine_info": null,
+      "can_be_promoted": {
+        "basket": true,
+        "venue": true,
+        "credits": true
+      },
+      "checksum": "dbc43900dfe2255c42fc40801e406bcb",
+      "description": "",
+      "deposit": null,
+      "dietary_preferences": [
+      ],
+      "disabled_info": null,
+      "fulfillment_lead_time": null,
+      "has_extra_info": false,
+      "images": [
+        {
+          "url": "https://imageproxy.wolt.com/assets/675735b9466c2308cf881d4c",
+          "blurhash": null
+        }
+      ],
+      "videos": [
+      ],
+      "is_cutlery": false,
+      "is_no_contact_delivery_allowed": true,
+      "is_wolt_plus_only": false,
+      "lowest_price": null,
+      "lowest_price_v2": null,
+      "max_quantity_per_purchase": null,
+      "min_quantity_per_purchase": null,
+      "name": "Amita",
+      "options": [
+      ],
+      "original_price": null,
+      "original_net_price": null,
+      "item_price_discount_validity_period": null,
+      "price": 20000,
+      "net_price": null,
+      "product_hierarchy_tags": [
+      ],
+      "purchasable_balance": null,
+      "restrictions": [
+      ],
+      "return_policy": null,
+      "sell_by_weight_config": null,
+      "should_display_purchasable_balance": false,
+      "tags": [
+      ],
+      "unit_info": null,
+      "unit_price": null,
+      "variant": null,
+      "vat_category_code": null,
+      "vat_percentage": 20,
+      "vat_percentage_decimal": "20.0",
+      "external_compliance_link": null,
+      "consent_info": {
+        "ask_consent": false,
+        "blur_image": false
+      }
+    },
+    {
+      "id": "54681f7a4a352f4e60acbb8d",
+      "advertising_info": null,
+      "alcohol_permille": 0,
+      "allowed_delivery_methods": [
+        "eatin",
+        "takeaway",
+        "homedelivery"
+      ],
+      "available_times": [
+        {
+          "days": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ],
+          "start_time": 0,
+          "end_time": 86400000
+        }
+      ],
+      "barcode_gtin": null,
+      "caffeine_info": null,
+      "can_be_promoted": {
+        "basket": true,
+        "venue": true,
+        "credits": true
+      },
+      "checksum": "3b702116ba37c343bae36b7d61046e8a",
+      "description": "Chocolate, disarono almonds",
+      "deposit": null,
+      "dietary_preferences": [
+      ],
+      "disabled_info": null,
+      "fulfillment_lead_time": null,
+      "has_extra_info": false,
+      "images": [
+        {
+          "url": "https://imageproxy.wolt.com/assets/67570e1e33d8b646b502f1cb",
+          "blurhash": null
+        }
+      ],
+      "videos": [
+      ],
+      "is_cutlery": false,
+      "is_no_contact_delivery_allowed": true,
+      "is_wolt_plus_only": false,
+      "lowest_price": null,
+      "lowest_price_v2": null,
+      "max_quantity_per_purchase": null,
+      "min_quantity_per_purchase": null,
+      "name": "Disarono",
+      "options": [
+        {
+          "id": "45f1a201acb4aebb3ba265e4",
+          "option_id": "4c445cbe4e2fa84a512bfc65",
+          "name": "Add extra",
+          "prerequisite_values": [
+          ],
+          "multi_choice_config": {
+            "total_range": {
+              "min": 0,
+              "max": 14
+            },
+            "max_single_selections": 1,
+            "free_selections": 0
+          }
+        }
+      ],
+      "original_price": null,
+      "original_net_price": null,
+      "item_price_discount_validity_period": null,
+      "price": 35000,
+      "net_price": null,
+      "product_hierarchy_tags": [
+      ],
+      "purchasable_balance": null,
+      "restrictions": [
+      ],
+      "return_policy": null,
+      "sell_by_weight_config": null,
+      "should_display_purchasable_balance": false,
+      "tags": [
+      ],
+      "unit_info": null,
+      "unit_price": null,
+      "variant": null,
+      "vat_category_code": "ALB-10",
+      "vat_percentage": 20,
+      "vat_percentage_decimal": "20.0",
+      "external_compliance_link": null,
+      "consent_info": {
+        "ask_consent": false,
+        "blur_image": false
+      }
+    },
+    {
+      "id": "5cddb256befd8c0f66a365d3",
+      "advertising_info": null,
+      "alcohol_permille": 0,
+      "allowed_delivery_methods": [
+        "eatin",
+        "takeaway",
+        "homedelivery"
+      ],
+      "available_times": [
+        {
+          "days": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ],
+          "start_time": 0,
+          "end_time": 86400000
+        }
+      ],
+      "barcode_gtin": null,
+      "caffeine_info": null,
+      "can_be_promoted": {
+        "basket": true,
+        "venue": true,
+        "credits": true
+      },
+      "checksum": "821bb439e913707de7bee36d4ff72e45",
+      "description": "",
+      "deposit": null,
+      "dietary_preferences": [
+      ],
+      "disabled_info": null,
+      "fulfillment_lead_time": null,
+      "has_extra_info": false,
+      "images": [
+        {
+          "url": "https://imageproxy.wolt.com/assets/67570e6833d8b646b502f1e6",
+          "blurhash": null
+        }
+      ],
+      "videos": [
+      ],
+      "is_cutlery": false,
+      "is_no_contact_delivery_allowed": true,
+      "is_wolt_plus_only": false,
+      "lowest_price": null,
+      "lowest_price_v2": null,
+      "max_quantity_per_purchase": null,
+      "min_quantity_per_purchase": null,
+      "name": "Nutella Mix",
+      "options": [
+        {
+          "id": "a2f4714628830975d1c7a296",
+          "option_id": "4c445cbe4e2fa84a512bfc65",
+          "name": "Add extra",
+          "prerequisite_values": [
+          ],
+          "multi_choice_config": {
+            "total_range": {
+              "min": 0,
+              "max": 14
+            },
+            "max_single_selections": 1,
+            "free_selections": 0
+          }
+        }
+      ],
+      "original_price": null,
+      "original_net_price": null,
+      "item_price_discount_validity_period": null,
+      "price": 35000,
+      "net_price": null,
+      "product_hierarchy_tags": [
+      ],
+      "purchasable_balance": null,
+      "restrictions": [
+      ],
+      "return_policy": null,
+      "sell_by_weight_config": null,
+      "should_display_purchasable_balance": false,
+      "tags": [
+      ],
+      "unit_info": null,
+      "unit_price": null,
+      "variant": null,
+      "vat_category_code": "ALB-10",
+      "vat_percentage": 20,
+      "vat_percentage_decimal": "20.0",
+      "external_compliance_link": null,
+      "consent_info": {
+        "ask_consent": false,
+        "blur_image": false
+      }
+    },
+    {
+      "id": "64fc6bbc131f4c95fb7ab7ac",
+      "advertising_info": null,
+      "alcohol_permille": 0,
+      "allowed_delivery_methods": [
+        "eatin",
+        "takeaway",
+        "homedelivery"
+      ],
+      "available_times": [
+        {
+          "days": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ],
+          "start_time": 0,
+          "end_time": 86400000}
+      ],
+      "barcode_gtin": null,
+      "caffeine_info": null,
+      "can_be_promoted": {
+        "basket": true,
+        "venue": true,
+        "credits": true
+      },
+      "checksum": "2c0745e720808cd3a7f2dc1b603cc507",
+      "description": "",
+      "deposit": null,
+      "dietary_preferences": [
+      ],
+      "disabled_info": null,
+      "fulfillment_lead_time": null,
+      "has_extra_info": false,
+      "images": [
+        {
+          "url": "https://imageproxy.wolt.com/assets/68cc90feff4f559d9cad107e",
+          "blurhash": null
+        }
+      ],
+      "videos": [
+      ],
+      "is_cutlery": false,
+      "is_no_contact_delivery_allowed": true,
+      "is_wolt_plus_only": false,
+      "lowest_price": null,
+      "lowest_price_v2": null,
+      "max_quantity_per_purchase": null,
+      "min_quantity_per_purchase": null,
+      "name": "Lidia Nutella",
+      "options": [
+      ],
+      "original_price": null,
+      "original_net_price": null,
+      "item_price_discount_validity_period": null,
+      "price": 38000,
+      "net_price": null,
+      "product_hierarchy_tags": [
+      ],
+      "purchasable_balance": null,
+      "restrictions": [
+      ],
+      "return_policy": null,
+      "sell_by_weight_config": null,
+      "should_display_purchasable_balance": false,
+      "tags": [
+        {
+          "id": "popular",
+          "label": "Popular",
+          "decoration": "star",
+          "color": "primary",
+          "style": {
+            "background_color": "#009de0",
+            "text_color": "#ffffff",
+            "background_color_key": "color-bg-fill-brand",
+            "text_color_key": "color-text-on-bg-fill-brand"
+          }
+        }
+      ],
+      "unit_info": null,
+      "unit_price": null,
+      "variant": null,
+      "vat_category_code": "ALB-10",
+      "vat_percentage": 20,
+      "vat_percentage_decimal": "20.0",
+      "external_compliance_link": null,
+      "consent_info": {
+        "ask_consent": false,
+        "blur_image": false
+      }
+    },
+    {
+      "id": "69058790f75291139db07979",
+      "advertising_info": null,
+      "alcohol_permille": 0,
+      "allowed_delivery_methods": [
+        "eatin",
+        "takeaway",
+        "homedelivery"
+      ],
+      "available_times": [
+        {
+          "days": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ],
+          "start_time": 0,
+          "end_time": 86400000
+        }
+      ],
+      "barcode_gtin": null,
+      "caffeine_info": null,
+      "can_be_promoted": {
+        "basket": true,
+        "venue": true,
+        "credits": true
+      },
+      "checksum": "87e5790622b502a94fbc44b10e017823",
+      "description": "Guda, cream, carrot, tomato, cheese sauce.",
+      "deposit": null,
+      "dietary_preferences": [
+      ],
+      "disabled_info": null,
+      "fulfillment_lead_time": null,
+      "has_extra_info": true,
+      "images": [
+        {
+          "url": "https://imageproxy.wolt.com/assets/67570ea633d8b646b502f1f1",
+          "blurhash": "jhNoR9tC;WGGKWxVlCCDT6GGhplm"
+        }
+      ],
+      "videos": [
+      ],
+      "is_cutlery": false,
+      "is_no_contact_delivery_allowed": true,
+      "is_wolt_plus_only": false,
+      "lowest_price": null,
+      "lowest_price_v2": null,
+      "max_quantity_per_purchase": null,
+      "min_quantity_per_purchase": null,
+      "name": "Berlin",
+      "options": [
+        {
+          "id": "ce09c55c8cbdaafc60a723f7",
+          "option_id": "f69d060de2a1303fafbff7dd",
+          "name": "Add extra",
+          "prerequisite_values": [
+          ],
+          "multi_choice_config": {
+            "total_range": {
+              "min": 0,
+              "max": 13
+            },
+            "max_single_selections": 1,
+            "free_selections": 0
+          }
+        }
+      ],
+      "original_price": null,
+      "original_net_price": null,
+      "item_price_discount_validity_period": null,
+      "price": 35000,
+      "net_price": null,
+      "product_hierarchy_tags": [
+      ],
+      "purchasable_balance": null,
+      "restrictions": [
+      ],
+      "return_policy": null,
+      "sell_by_weight_config": null,
+      "should_display_purchasable_balance": false,
+      "tags": [
+      ],
+      "unit_info": null,
+      "unit_price": null,
+      "variant": null,
+      "vat_category_code": null,
+      "vat_percentage": 20,
+      "vat_percentage_decimal": "20.0",
+      "external_compliance_link": null,
+      "consent_info": {
+        "ask_consent": false,
+        "blur_image": false
+      }
+    },
+    {
+      "id": "6e5616f4041f7939dd980dd1",
+      "advertising_info": null,
+      "alcohol_permille": 0,
+      "allowed_delivery_methods": [
+        "eatin",
+        "takeaway",
+        "homedelivery"
+      ],
+      "available_times": [
+        {
+          "days": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ],
+          "start_time": 0,
+          "end_time": 86400000
+        }
+      ],
+      "barcode_gtin": null,
+      "caffeine_info": null,
+      "can_be_promoted": {
+        "basket": true,
+        "venue": true,
+        "credits": true
+      },
+      "checksum": "2f7de257a56a28a2a4f0f7978d5307b7",
+      "description": "Butter, melted biscuits",
+      "deposit": null,
+      "dietary_preferences": [
+      ],
+      "disabled_info": null,
+      "fulfillment_lead_time": null,
+      "has_extra_info": false,
+      "images": [
+        {
+          "url": "https://imageproxy.wolt.com/assets/67570e1e33d8b646b502f1cc",
+          "blurhash": null
+        }
+      ],
+      "videos": [
+      ],
+      "is_cutlery": false,
+      "is_no_contact_delivery_allowed": true,
+      "is_wolt_plus_only": false,
+      "lowest_price": null,
+      "lowest_price_v2": null,
+      "max_quantity_per_purchase": null,
+      "min_quantity_per_purchase": null,
+      "name": "Lotus",
+      "options": [
+        {
+          "id": "41820c6118c36ff09765a381",
+          "option_id": "4c445cbe4e2fa84a512bfc65",
+          "name": "Add extra",
+          "prerequisite_values": [
+          ],
+          "multi_choice_config": {
+            "total_range": {
+              "min": 0,
+              "max": 14
+            },
+            "max_single_selections": 1,
+            "free_selections": 0
+          }
+        }
+      ],
+      "original_price": null,
+      "original_net_price": null,
+      "item_price_discount_validity_period": null,
+      "price": 40000,
+      "net_price": null,
+      "product_hierarchy_tags": [
+      ],
+      "purchasable_balance": null,
+      "restrictions": [
+      ],
+      "return_policy": null,
+      "sell_by_weight_config": null,
+      "should_display_purchasable_balance": false,
+      "tags": [
+      ],
+      "unit_info": null,
+      "unit_price": null,
+      "variant": null,
+      "vat_category_code": "ALB-10",
+      "vat_percentage": 20,
+      "vat_percentage_decimal": "20.0",
+      "external_compliance_link": null,
+      "consent_info": {
+        "ask_consent": false,
+        "blur_image": false
+      }
+    },
+    {
+      "id": "704a0c4daafb1a01238e0b6f",
+      "advertising_info": null,
+      "alcohol_permille": 0,
+      "allowed_delivery_methods": [
+        "eatin",
+        "takeaway",
+        "homedelivery"
+      ],
+      "available_times": [
+        {
+          "days": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ],
+          "start_time": 0,
+          "end_time": 86400000
+        }
+      ],
+      "barcode_gtin": null,
+      "caffeine_info": null,
+      "can_be_promoted": {
+        "basket": true,
+        "venue": true,
+        "credits": true
+      },
+      "checksum": "c89ab80463bfe3771d41f2d748766de6",
+      "description": "",
+      "deposit": null,
+      "dietary_preferences": [
+      ],
+      "disabled_info": null,
+      "fulfillment_lead_time": null,
+      "has_extra_info": false,
+      "images": [
+        {
+          "url": "https://imageproxy.wolt.com/assets/675732d1466c2308cf881d38",
+          "blurhash": null
+        }
+      ],
+      "videos": [
+      ],
+      "is_cutlery": false,
+      "is_no_contact_delivery_allowed": true,
+      "is_wolt_plus_only": false,
+      "lowest_price": null,
+      "lowest_price_v2": null,
+      "max_quantity_per_purchase": null,
+      "min_quantity_per_purchase": null,
+      "name": "Water",
+      "options": [
+      ],
+      "original_price": null,
+      "original_net_price": null,
+      "item_price_discount_validity_period": null,
+      "price": 10000,
+      "net_price": null,
+      "product_hierarchy_tags": [
+      ],
+      "purchasable_balance": null,
+      "restrictions": [
+      ],
+      "return_policy": null,
+      "sell_by_weight_config": null,
+      "should_display_purchasable_balance": false,
+      "tags": [
+      ],
+      "unit_info": null,
+      "unit_price": null,
+      "variant": null,
+      "vat_category_code": null,
+      "vat_percentage": 20,
+      "vat_percentage_decimal": "20.0",
+      "external_compliance_link": null,
+      "consent_info": {
+        "ask_consent": false,
+        "blur_image": false
+      }
+    },
+    {
+      "id": "73b6e3f731a724d81a99bb4f",
+      "advertising_info": null,
+      "alcohol_permille": 0,
+      "allowed_delivery_methods": [
+        "eatin",
+        "takeaway",
+        "homedelivery"
+      ],
+      "available_times": [
+        {
+          "days": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ],
+          "start_time": 0,
+          "end_time": 86400000
+        }
+      ],
+      "barcode_gtin": null,
+      "caffeine_info": null,
+      "can_be_promoted": {
+        "basket": true,
+        "venue": true,
+        "credits": true
+      },
+      "checksum": "ff119e2e9e04e933f54541253f7ec6d5",
+      "description": "",
+      "deposit": null,
+      "dietary_preferences": [
+      ],
+      "disabled_info": null,
+      "fulfillment_lead_time": null,
+      "has_extra_info": false,
+      "images": [
+        {
+          "url": "https://imageproxy.wolt.com/assets/67570e1933d8b646b502f1c3",
+          "blurhash": null
+        }
+      ],
+      "videos": [
+      ],
+      "is_cutlery": false,
+      "is_no_contact_delivery_allowed": true,
+      "is_wolt_plus_only": false,
+      "lowest_price": null,
+      "lowest_price_v2": null,
+      "max_quantity_per_purchase": null,
+      "min_quantity_per_purchase": null,
+      "name": "Chocolate Waffle",
+      "options": [
+        {
+          "id": "2a9d927bbde1041e5c38c8ea",
+          "option_id": "4c445cbe4e2fa84a512bfc65",
+          "name": "Add extra",
+          "prerequisite_values": [
+          ],
+          "multi_choice_config": {
+            "total_range": {
+              "min": 0,
+              "max": 16
+            },
+            "max_single_selections": 1,
+            "free_selections": 0
+          }
+        }
+      ],
+      "original_price": null,
+      "original_net_price": null,
+      "item_price_discount_validity_period": null,
+      "price": 47000,
+      "net_price": null,
+      "product_hierarchy_tags": [
+      ],
+      "purchasable_balance": null,
+      "restrictions": [
+      ],
+      "return_policy": null,
+      "sell_by_weight_config": null,
+      "should_display_purchasable_balance": false,
+      "tags": [
+      ],
+      "unit_info": null,
+      "unit_price": null,
+      "variant": null,
+      "vat_category_code": "ALB-10",
+      "vat_percentage": 20,
+      "vat_percentage_decimal": "20.0",
+      "external_compliance_link": null,
+      "consent_info": {
+        "ask_consent": false,
+        "blur_image": false
+      }
+    },
+    {
+      "id": "783c56b66d247686d74bbd1d",
+      "advertising_info": null,
+      "alcohol_permille": 0,
+      "allowed_delivery_methods": [
+        "eatin",
+        "takeaway",
+        "homedelivery"],
+      "available_times": [
+        {
+          "days": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ],
+          "start_time": 0,
+          "end_time": 86400000
+        }
+      ],
+      "barcode_gtin": null,
+      "caffeine_info": null,
+      "can_be_promoted": {
+        "basket": true,
+        "venue": true,
+        "credits": true
+      },
+      "checksum": "316022815848ec65308f0a33f1805446",
+      "description": "Yoghurt honey, dried fruits",
+      "deposit": null,
+      "dietary_preferences": [
+      ],
+      "disabled_info": null,
+      "fulfillment_lead_time": null,
+      "has_extra_info": false,
+      "images": [
+        {
+          "url": "https://imageproxy.wolt.com/assets/680a10156f972db77b4cf5bb",
+          "blurhash": null
+        }
+      ],
+      "videos": [
+      ],
+      "is_cutlery": false,
+      "is_no_contact_delivery_allowed": true,
+      "is_wolt_plus_only": false,
+      "lowest_price": null,
+      "lowest_price_v2": null,
+      "max_quantity_per_purchase": null,
+      "min_quantity_per_purchase": null,
+      "name": "Dried Fruit Yogurt Smoothie",
+      "options": [
+      ],
+      "original_price": null,
+      "original_net_price": null,
+      "item_price_discount_validity_period": null,
+      "price": 40000,
+      "net_price": null,
+      "product_hierarchy_tags": [
+      ],
+      "purchasable_balance": null,
+      "restrictions": [
+      ],
+      "return_policy": null,
+      "sell_by_weight_config": null,
+      "should_display_purchasable_balance": false,
+      "tags": [
+      ],
+      "unit_info": null,
+      "unit_price": null,
+      "variant": null,
+      "vat_category_code": null,
+      "vat_percentage": 20,
+      "vat_percentage_decimal": "20.0",
+      "external_compliance_link": null,
+      "consent_info": {
+        "ask_consent": false,
+        "blur_image": false
+      }
+    },
+    {
+      "id": "7a66841b4743b816a1c9ebfe",
+      "advertising_info": null,
+      "alcohol_permille": 0,
+      "allowed_delivery_methods": [
+        "eatin",
+        "takeaway",
+        "homedelivery"
+      ],
+      "available_times": [
+        {
+          "days": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ],
+          "start_time": 0,
+          "end_time": 86400000
+        }
+      ],
+      "barcode_gtin": null,
+      "caffeine_info": null,
+      "can_be_promoted": {
+        "basket": true,
+        "venue": true,
+        "credits": true
+      },
+      "checksum": "cdfa08d98d21cf0d30a68672e47fab71",
+      "description": "",
+      "deposit": null,
+      "dietary_preferences": [
+      ],
+      "disabled_info": null,
+      "fulfillment_lead_time": null,
+      "has_extra_info": false,
+      "images": [
+      ],
+      "videos": [
+      ],
+      "is_cutlery": false,
+      "is_no_contact_delivery_allowed": true,
+      "is_wolt_plus_only": false,
+      "lowest_price": null,
+      "lowest_price_v2": null,
+      "max_quantity_per_purchase": null,
+      "min_quantity_per_purchase": null,
+      "name": "Simple Mix.",
+      "options": [
+      ],
+      "original_price": null,
+      "original_net_price": null,
+      "item_price_discount_validity_period": null,
+      "price": 30000,
+      "net_price": null,
+      "product_hierarchy_tags": [
+      ],
+      "purchasable_balance": null,
+      "restrictions": [
+      ],
+      "return_policy": null,
+      "sell_by_weight_config": null,
+      "should_display_purchasable_balance": false,
+      "tags": [
+      ],
+      "unit_info": null,
+      "unit_price": null,
+      "variant": null,
+      "vat_category_code": null,
+      "vat_percentage": 20,
+      "vat_percentage_decimal": "20.0",
+      "external_compliance_link": null,
+      "consent_info": {
+        "ask_consent": false,
+        "blur_image": false
+      }
+    },
+    {
+      "id": "83d4037118c86829ec3c2e7b",
+      "advertising_info": null,
+      "alcohol_permille": 0,
+      "allowed_delivery_methods": [
+        "eatin",
+        "takeaway",
+        "homedelivery"
+      ],
+      "available_times": [
+        {
+          "days": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ],
+          "start_time": 0,
+          "end_time": 86400000
+        }
+      ],
+      "barcode_gtin": null,
+      "caffeine_info": null,
+      "can_be_promoted": {
+        "basket": true,
+        "venue": true,
+        "credits": true
+      },
+      "checksum": "1b47ee2e6ca35e82e47601c7b94ea07f",
+      "description": "",
+      "deposit": null,
+      "dietary_preferences": [
+      ],
+      "disabled_info": null,
+      "fulfillment_lead_time": null,
+      "has_extra_info": false,
+      "images": [{
+        "url": "https://imageproxy.wolt.com/assets/675735ea33d8b646b502f455",
+        "blurhash": null
+      }
+      ],
+      "videos": [
+      ],
+      "is_cutlery": false,
+      "is_no_contact_delivery_allowed": true,
+      "is_wolt_plus_only": false,
+      "lowest_price": null,
+      "lowest_price_v2": null,
+      "max_quantity_per_purchase": null,
+      "min_quantity_per_purchase": null,
+      "name": "B-52",
+      "options": [
+      ],
+      "original_price": null,
+      "original_net_price": null,
+      "item_price_discount_validity_period": null,
+      "price": 20000,
+      "net_price": null,
+      "product_hierarchy_tags": [
+        "ALCOHOL"
+      ],
+      "purchasable_balance": null,
+      "restrictions": [
+        {
+          "type": "age_restricted",
+          "age_limit": 18
+        }
+      ],
+      "return_policy": null,
+      "sell_by_weight_config": null,
+      "should_display_purchasable_balance": false,
+      "tags": [
+      ],
+      "unit_info": null,
+      "unit_price": null,
+      "variant": null,
+      "vat_category_code": null,
+      "vat_percentage": 20,
+      "vat_percentage_decimal": "20.0",
+      "external_compliance_link": null,
+      "consent_info": {
+        "ask_consent": false,
+        "blur_image": false
+      }
+    },
+    {
+      "id": "901e8ea91a8db0230fdbcf0e",
+      "advertising_info": null,
+      "alcohol_permille": 0,
+      "allowed_delivery_methods": [
+        "eatin",
+        "takeaway",
+        "homedelivery"
+      ],
+      "available_times": [
+        {
+          "days": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ],
+          "start_time": 0,
+          "end_time": 86400000
+        }
+      ],
+      "barcode_gtin": null,
+      "caffeine_info": null,
+      "can_be_promoted": {
+        "basket": true,
+        "venue": true,
+        "credits": true
+      },
+      "checksum": "dbb9f0bb0f073e864aafcc231413aff2",
+      "description": "",
+      "deposit": null,
+      "dietary_preferences": [
+      ],
+      "disabled_info": null,
+      "fulfillment_lead_time": null,
+      "has_extra_info": false,
+      "images": [
+        {
+          "url": "https://imageproxy.wolt.com/assets/67570e1933d8b646b502f1c3",
+          "blurhash": null
+        }
+      ],
+      "videos": [
+      ],
+      "is_cutlery": false,
+      "is_no_contact_delivery_allowed": true,
+      "is_wolt_plus_only": false,
+      "lowest_price": null,
+      "lowest_price_v2": null,
+      "max_quantity_per_purchase": null,
+      "min_quantity_per_purchase": null,
+      "name": "Chocolate Waffle",
+      "options": [
+        {
+          "id": "2a9d927bbde1041e5c38c8ea",
+          "option_id": "4c445cbe4e2fa84a512bfc65",
+          "name": "Add extra",
+          "prerequisite_values": [
+          ],
+          "multi_choice_config": {
+            "total_range": {
+              "min": 0,
+              "max": 16
+            },
+            "max_single_selections": 1,
+            "free_selections": 0
+          }
+        }
+      ],
+      "original_price": null,
+      "original_net_price": null,
+      "item_price_discount_validity_period": null,
+      "price": 47000,
+      "net_price": null,
+      "product_hierarchy_tags": [
+      ],
+      "purchasable_balance": null,
+      "restrictions": [
+      ],
+      "return_policy": null,
+      "sell_by_weight_config": null,
+      "should_display_purchasable_balance": false,
+      "tags": [
+      ],
+      "unit_info": null,
+      "unit_price": null,
+      "variant": null,
+      "vat_category_code": "ALB-10",
+      "vat_percentage": 20,
+      "vat_percentage_decimal": "20.0",
+      "external_compliance_link": null,
+      "consent_info": {
+        "ask_consent": false,
+        "blur_image": false
+      }
+    },
+    {
+      "id": "92bb1fb1a34c75e949d6784a",
+      "advertising_info": null,
+      "alcohol_permille": 0,
+      "allowed_delivery_methods": [
+        "eatin",
+        "takeaway",
+        "homedelivery"
+      ],
+      "available_times": [
+        {
+          "days": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ],
+          "start_time": 0,
+          "end_time": 86400000
+        }
+      ],
+      "barcode_gtin": null,
+      "caffeine_info": null,
+      "can_be_promoted": {
+        "basket": true,
+        "venue": true,
+        "credits": true
+      },
+      "checksum": "8dd517b7b085534beb8e017d0c48947e",
+      "description": "",
+      "deposit": null,
+      "dietary_preferences": [
+      ],
+      "disabled_info": null,
+      "fulfillment_lead_time": null,
+      "has_extra_info": false,
+      "images": [
+        {
+          "url": "https://imageproxy.wolt.com/assets/67570e2333d8b646b502f1d1",
+          "blurhash": null
+        }
+      ],
+      "videos": [
+      ],
+      "is_cutlery": false,
+      "is_no_contact_delivery_allowed": true,
+      "is_wolt_plus_only": false,
+      "lowest_price": null,
+      "lowest_price_v2": null,
+      "max_quantity_per_purchase": null,
+      "min_quantity_per_purchase": null,
+      "name": "Nutella Waffles",
+      "options": [
+        {
+          "id": "b8712e85d890c7ea23e846ee",
+          "option_id": "4c445cbe4e2fa84a512bfc65",
+          "name": "Add extra",
+          "prerequisite_values": [
+          ],
+          "multi_choice_config": {
+            "total_range": {
+              "min": 0,
+              "max": 16
+            },
+            "max_single_selections": 1,
+            "free_selections": 0
+          }
+        }
+      ],
+      "original_price": null,
+      "original_net_price": null,
+      "item_price_discount_validity_period": null,
+      "price": 50900,
+      "net_price": null,
+      "product_hierarchy_tags": [
+      ],
+      "purchasable_balance": null,
+      "restrictions": [
+      ],
+      "return_policy": null,
+      "sell_by_weight_config": null,
+      "should_display_purchasable_balance": false,
+      "tags": [
+      ],
+      "unit_info": null,
+      "unit_price": null,
+      "variant": null,
+      "vat_category_code": "ALB-10",
+      "vat_percentage": 20,
+      "vat_percentage_decimal": "20.0",
+      "external_compliance_link": null,
+      "consent_info": {
+        "ask_consent": false,
+        "blur_image": false
+      }
+    },
+    {
+      "id": "9da8a705a897c3600286586d",
+      "advertising_info": null,
+      "alcohol_permille": 0,
+      "allowed_delivery_methods": [
+        "eatin",
+        "takeaway",
+        "homedelivery"
+      ],
+      "available_times": [
+        {
+          "days": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ],
+          "start_time": 0,
+          "end_time": 86400000
+        }
+      ],
+      "barcode_gtin": null,
+      "caffeine_info": null,
+      "can_be_promoted": {
+        "basket": true,
+        "venue": true,
+        "credits": true
+      },
+      "checksum": "aa6d37d146c942e8486fb43de13dbd0e",
+      "description": "Avocado, chicken, green salad, philadelphia, guda.",
+      "deposit": null,
+      "dietary_preferences": [
+      ],
+      "disabled_info": null,
+      "fulfillment_lead_time": null,
+      "has_extra_info": true,
+      "images": [
+        {
+          "url": "https://imageproxy.wolt.com/assets/67570e1133d8b646b502f1b3",
+          "blurhash": null
+        }
+      ],
+      "videos": [
+      ],
+      "is_cutlery": false,
+      "is_no_contact_delivery_allowed": true,
+      "is_wolt_plus_only": false,
+      "lowest_price": null,
+      "lowest_price_v2": null,
+      "max_quantity_per_purchase": null,
+      "min_quantity_per_purchase": null,
+      "name": "Avocado Chicken",
+      "options": [
+        {
+          "id": "fa7bba3dd601b43bfd47ac99",
+          "option_id": "f69d060de2a1303fafbff7dd",
+          "name": "Add extra",
+          "prerequisite_values": [
+          ],
+          "multi_choice_config": {
+            "total_range": {
+              "min": 0,
+              "max": 13
+            },
+            "max_single_selections": 1,
+            "free_selections": 0
+          }
+        }
+      ],
+      "original_price": null,
+      "original_net_price": null,
+      "item_price_discount_validity_period": null,
+      "price": 45000,
+      "net_price": null,
+      "product_hierarchy_tags": [
+      ],
+      "purchasable_balance": null,
+      "restrictions": [
+      ],
+      "return_policy": null,
+      "sell_by_weight_config": null,
+      "should_display_purchasable_balance": false,
+      "tags": [
+      ],
+      "unit_info": null,
+      "unit_price": null,
+      "variant": null,
+      "vat_category_code": null,
+      "vat_percentage": 20,
+      "vat_percentage_decimal": "20.0",
+      "external_compliance_link": null,
+      "consent_info": {
+        "ask_consent": false,
+        "blur_image": false
+      }
+    },
+    {
+      "id": "9e445759c6614bfc1f8fb443",
+      "advertising_info": null,
+      "alcohol_permille": 0,
+      "allowed_delivery_methods": [
+        "eatin",
+        "takeaway",
+        "homedelivery"
+      ],
+      "available_times": [
+        {
+          "days": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ],
+          "start_time": 0,
+          "end_time": 86400000
+        }
+      ],
+      "barcode_gtin": null,
+      "caffeine_info": null,
+      "can_be_promoted": {
+        "basket": true,
+        "venue": true,
+        "credits": true
+      },
+      "checksum": "ab9946ed7561abe16448aaf00b9d71a8",
+      "description": "Surprise of the day containing 2x crepes & 1x fruit juice according to the restaurant's wishes",
+      "deposit": null,
+      "dietary_preferences": [
+      ],
+      "disabled_info": null,
+      "fulfillment_lead_time": null,
+      "has_extra_info": false,
+      "images": [
+        {
+          "url": "https://imageproxy.wolt.com/assets/682c36a10c78421ac092bf7f",
+          "blurhash": null
+        }
+      ],
+      "videos": [
+      ],
+      "is_cutlery": false,
+      "is_no_contact_delivery_allowed": true,
+      "is_wolt_plus_only": false,
+      "lowest_price": null,
+      "lowest_price_v2": null,
+      "max_quantity_per_purchase": null,
+      "min_quantity_per_purchase": null,
+      "name": "The Crepes Box",
+      "options": [
+      ],
+      "original_price": null,
+      "original_net_price": null,
+      "item_price_discount_validity_period": null,
+      "price": 70000,
+      "net_price": null,
+      "product_hierarchy_tags": [
+      ],
+      "purchasable_balance": null,
+      "restrictions": [
+      ],
+      "return_policy": null,
+      "sell_by_weight_config": null,
+      "should_display_purchasable_balance": false,
+      "tags": [
+      ],
+      "unit_info": null,
+      "unit_price": null,
+      "variant": null,
+      "vat_category_code": "ALB-10",
+      "vat_percentage": 20,
+      "vat_percentage_decimal": "20.0",
+      "external_compliance_link": null,
+      "consent_info": {
+        "ask_consent": false,
+        "blur_image": false
+      }
+    },
+    {
+      "id": "9ee17c06ec66cb54dd439bae",
+      "advertising_info": null,
+      "alcohol_permille": 0,
+      "allowed_delivery_methods": [
+        "eatin",
+        "takeaway",
+        "homedelivery"
+      ],
+      "available_times": [
+        {
+          "days": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ],
+          "start_time": 0,
+          "end_time": 86400000
+        }
+      ],
+      "barcode_gtin": null,
+      "caffeine_info": null,
+      "can_be_promoted": {
+        "basket": true,
+        "venue": true,
+        "credits": true
+      },
+      "checksum": "2bd96f5a5ffea4404ec04b870f36beda",
+      "description": "",
+      "deposit": null,
+      "dietary_preferences": [
+      ],
+      "disabled_info": null,
+      "fulfillment_lead_time": null,
+      "has_extra_info": false,
+      "images": [
+        {
+          "url": "https://imageproxy.wolt.com/assets/675732e9466c2308cf881d39",
+          "blurhash": "j3UZyEKWX;hmOXupmCtCPJpDgzKW"
+        }
+      ],
+      "videos": [
+      ],
+      "is_cutlery": false,
+      "is_no_contact_delivery_allowed": true,
+      "is_wolt_plus_only": false,
+      "lowest_price": null,
+      "lowest_price_v2": null,
+      "max_quantity_per_purchase": null,
+      "min_quantity_per_purchase": null,
+      "name": "Thumbs Up",
+      "options": [
+      ],
+      "original_price": null,
+      "original_net_price": null,
+      "item_price_discount_validity_period": null,
+      "price": 20000,
+      "net_price": null,
+      "product_hierarchy_tags": [
+      ],
+      "purchasable_balance": null,
+      "restrictions": [
+      ],
+      "return_policy": null,
+      "sell_by_weight_config": null,
+      "should_display_purchasable_balance": false,
+      "tags": [
+      ],
+      "unit_info": null,
+      "unit_price": null,
+      "variant": null,
+      "vat_category_code": null,
+      "vat_percentage": 20,
+      "vat_percentage_decimal": "20.0",
+      "external_compliance_link": null,
+      "consent_info": {
+        "ask_consent": false,
+        "blur_image": false
+      }
+    },
+    {
+      "id": "9fdd4d91bd57d5ed33eef278",
+      "advertising_info": null,
+      "alcohol_permille": 0,
+      "allowed_delivery_methods": [
+        "eatin",
+        "takeaway",
+        "homedelivery"
+      ],
+      "available_times": [
+        {
+          "days": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ],
+          "start_time": 0,
+          "end_time": 86400000
+        }
+      ],
+      "barcode_gtin": null,
+      "caffeine_info": null,
+      "can_be_promoted": {
+        "basket": true,
+        "venue": true,
+        "credits": true
+      },
+      "checksum": "ec0c96ece32ce9c6ddfca17990f18bbf",
+      "description": "Nutella, hazelnuts, raisins",
+      "deposit": null,
+      "dietary_preferences": [
+      ],
+      "disabled_info": null,
+      "fulfillment_lead_time": null,
+      "has_extra_info": false,
+      "images": [
+        {
+          "url": "https://imageproxy.wolt.com/assets/67570e1533d8b646b502f1c2",
+          "blurhash": null
+        }
+      ],
+      "videos": [
+      ],
+      "is_cutlery": false,
+      "is_no_contact_delivery_allowed": true,
+      "is_wolt_plus_only": false,
+      "lowest_price": null,
+      "lowest_price_v2": null,
+      "max_quantity_per_purchase": null,
+      "min_quantity_per_purchase": null,
+      "name": "Nuts",
+      "options": [
+        {
+          "id": "16723040ad9f0c6d05613a7c",
+          "option_id": "4c445cbe4e2fa84a512bfc65",
+          "name": "Add extra",
+          "prerequisite_values": [
+          ],
+          "multi_choice_config": {
+            "total_range": {
+              "min": 0,
+              "max": 14
+            },
+            "max_single_selections": 1,
+            "free_selections": 0
+          }
+        }
+      ],
+      "original_price": null,
+      "original_net_price": null,
+      "item_price_discount_validity_period": null,
+      "price": 40000,
+      "net_price": null,
+      "product_hierarchy_tags": [
+      ],
+      "purchasable_balance": null,
+      "restrictions": [
+      ],
+      "return_policy": null,
+      "sell_by_weight_config": null,
+      "should_display_purchasable_balance": false,
+      "tags": [
+      ],
+      "unit_info": null,
+      "unit_price": null,
+      "variant": null,
+      "vat_category_code": "ALB-10",
+      "vat_percentage": 20,
+      "vat_percentage_decimal": "20.0",
+      "external_compliance_link": null,
+      "consent_info": {
+        "ask_consent": false,
+        "blur_image": false
+      }
+    },
+    {
+      "id": "a00d65aee58f446d80b65e35",
+      "advertising_info": null,
+      "alcohol_permille": 0,
+      "allowed_delivery_methods": [
+        "eatin",
+        "takeaway",
+        "homedelivery"
+      ],
+      "available_times": [
+        {
+          "days": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ],
+          "start_time": 0,
+          "end_time": 86400000
+        }
+      ],
+      "barcode_gtin": null,
+      "caffeine_info": null,
+      "can_be_promoted": {
+        "basket": true,
+        "venue": true,
+        "credits": true
+      },
+      "checksum": "1665153cfccd0a5b04e3466bd3272b2d",
+      "description": "",
+      "deposit": null,
+      "dietary_preferences": [
+      ],
+      "disabled_info": null,
+      "fulfillment_lead_time": null,
+      "has_extra_info": false,
+      "images": [
+        {
+          "url": "https://imageproxy.wolt.com/assets/675736ad33d8b646b502f465",
+          "blurhash": null
+        }
+      ],
+      "videos": [
+      ],
+      "is_cutlery": false,
+      "is_no_contact_delivery_allowed": true,
+      "is_wolt_plus_only": false,
+      "lowest_price": null,
+      "lowest_price_v2": null,
+      "max_quantity_per_purchase": null,
+      "min_quantity_per_purchase": null,
+      "name": "Strawberry Mix",
+      "options": [
+      ],
+      "original_price": null,
+      "original_net_price": null,
+      "item_price_discount_validity_period": null,
+      "price": 45000,
+      "net_price": null,
+      "product_hierarchy_tags": [
+      ],
+      "purchasable_balance": null,
+      "restrictions": [
+      ],
+      "return_policy": null,
+      "sell_by_weight_config": null,
+      "should_display_purchasable_balance": false,
+      "tags": [
+      ],
+      "unit_info": null,
+      "unit_price": null,
+      "variant": null,
+      "vat_category_code": null,
+      "vat_percentage": 20,
+      "vat_percentage_decimal": "20.0",
+      "external_compliance_link": null,
+      "consent_info": {
+        "ask_consent": false,
+        "blur_image": false
+      }
+    },
+    {
+      "id": "a0951e98bb0b28c94bf96f80",
+      "advertising_info": null,
+      "alcohol_permille": 0,
+      "allowed_delivery_methods": [
+        "eatin",
+        "takeaway",
+        "homedelivery"
+      ],
+      "available_times": [
+        {
+          "days": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ],
+          "start_time": 0,
+          "end_time": 86400000
+        }
+      ],
+      "barcode_gtin": null,
+      "caffeine_info": null,
+      "can_be_promoted": {
+        "basket": true,
+        "venue": true,
+        "credits": true
+      },
+      "checksum": "1fee03c603bc32ea9f715848950d8651",
+      "description": "",
+      "deposit": null,
+      "dietary_preferences": [
+      ],
+      "disabled_info": null,
+      "fulfillment_lead_time": null,
+      "has_extra_info": false,
+      "images": [
+        {
+          "url": "https://imageproxy.wolt.com/assets/68cd01e239d0f23cd685b68e",
+          "blurhash": null
+        }
+      ],
+      "videos": [
+      ],
+      "is_cutlery": false,
+      "is_no_contact_delivery_allowed": true,
+      "is_wolt_plus_only": false,
+      "lowest_price": null,
+      "lowest_price_v2": null,
+      "max_quantity_per_purchase": null,
+      "min_quantity_per_purchase": null,
+      "name": "Stela Artois",
+      "options": [
+      ],
+      "original_price": null,
+      "original_net_price": null,
+      "item_price_discount_validity_period": null,
+      "price": 37000,
+      "net_price": null,
+      "product_hierarchy_tags": [
+        "ALCOHOL",
+        "BEER"
+      ],
+      "purchasable_balance": null,
+      "restrictions": [
+        {
+          "type": "age_restricted",
+          "age_limit": 18
+        }
+      ],
+      "return_policy": null,
+      "sell_by_weight_config": null,
+      "should_display_purchasable_balance": false,
+      "tags": [
+      ],
+      "unit_info": null,
+      "unit_price": null,
+      "variant": null,
+      "vat_category_code": "ALB-10",
+      "vat_percentage": 20,
+      "vat_percentage_decimal": "20.0",
+      "external_compliance_link": null,
+      "consent_info": {
+        "ask_consent": false,
+        "blur_image": false
+      }
+    },
+    {
+      "id": "aee12e63a728d958d4b62b87",
+      "advertising_info": null,
+      "alcohol_permille": 0,
+      "allowed_delivery_methods": [
+        "eatin",
+        "takeaway",
+        "homedelivery"
+      ],
+      "available_times": [
+        {
+          "days": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ],
+          "start_time": 0,
+          "end_time": 86400000
+        }
+      ],
+      "barcode_gtin": null,
+      "caffeine_info": null,
+      "can_be_promoted": {
+        "basket": true,
+        "venue": true,
+        "credits": true
+      },
+      "checksum": "920d8abfbd016fee08fe14687acf921a",
+      "description": "",
+      "deposit": null,
+      "dietary_preferences": [
+      ],
+      "disabled_info": null,
+      "fulfillment_lead_time": null,
+      "has_extra_info": false,
+      "images": [
+        {
+          "url": "https://imageproxy.wolt.com/assets/68cc8d609f81778612412ef0",
+          "blurhash": null
+        }
+      ],
+      "videos": [
+      ],
+      "is_cutlery": false,
+      "is_no_contact_delivery_allowed": true,
+      "is_wolt_plus_only": false,
+      "lowest_price": null,
+      "lowest_price_v2": null,
+      "max_quantity_per_purchase": null,
+      "min_quantity_per_purchase": null,
+      "name": "Heinken",
+      "options": [
+      ],
+      "original_price": null,
+      "original_net_price": null,
+      "item_price_discount_validity_period": null,
+      "price": 33000,
+      "net_price": null,
+      "product_hierarchy_tags": [
+        "ALCOHOL",
+        "BEER"
+      ],
+      "purchasable_balance": null,
+      "restrictions": [
+        {
+          "type": "age_restricted",
+          "age_limit": 18
+        }
+      ],
+      "return_policy": null,
+      "sell_by_weight_config": null,
+      "should_display_purchasable_balance": false,
+      "tags": [
+      ],
+      "unit_info": null,
+      "unit_price": null,
+      "variant": null,
+      "vat_category_code": "ALB-10",
+      "vat_percentage": 20,
+      "vat_percentage_decimal": "20.0",
+      "external_compliance_link": null,
+      "consent_info": {
+        "ask_consent": false,
+        "blur_image": false
+      }
+    },
+    {
+      "id": "b27a368340aaf3e2a3bd134c",
+      "advertising_info": null,
+      "alcohol_permille": 0,
+      "allowed_delivery_methods": [
+        "eatin",
+        "takeaway",
+        "homedelivery"
+      ],
+      "available_times": [
+        {
+          "days": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ],
+          "start_time": 0,
+          "end_time": 86400000}
+      ],
+      "barcode_gtin": null,
+      "caffeine_info": null,
+      "can_be_promoted": {
+        "basket": true,
+        "venue": true,
+        "credits": true
+      },
+      "checksum": "b1bb5b8b2c087b236b7217b456231cec",
+      "description": "White or dark chocolate",
+      "deposit": null,
+      "dietary_preferences": [
+      ],
+      "disabled_info": null,
+      "fulfillment_lead_time": null,
+      "has_extra_info": false,
+      "images": [
+        {
+          "url": "https://imageproxy.wolt.com/assets/67570e1533d8b646b502f1be",
+          "blurhash": null
+        }
+      ],
+      "videos": [
+      ],
+      "is_cutlery": false,
+      "is_no_contact_delivery_allowed": true,
+      "is_wolt_plus_only": false,
+      "lowest_price": null,
+      "lowest_price_v2": null,
+      "max_quantity_per_purchase": null,
+      "min_quantity_per_purchase": null,
+      "name": "Chocolate",
+      "options": [
+        {
+          "id": "330b60ca7912311943a4c0f0",
+          "option_id": "432aaa4b33fa9cd6459bcbca",
+          "name": "Choose",
+          "prerequisite_values": [
+          ],
+          "multi_choice_config": {
+            "total_range": {
+              "min": 1,
+              "max": 1
+            },
+            "max_single_selections": 1,
+            "free_selections": 0
+          }
+        },
+        {
+          "id": "92e683cc672759a0950c955e",
+          "option_id": "4c445cbe4e2fa84a512bfc65",
+          "name": "Add extra",
+          "prerequisite_values": [
+          ],
+          "multi_choice_config": {
+            "total_range": {
+              "min": 0,
+              "max": 14
+            },
+            "max_single_selections": 1,
+            "free_selections": 0
+          }
+        }
+      ],
+      "original_price": null,
+      "original_net_price": null,
+      "item_price_discount_validity_period": null,
+      "price": 25000,
+      "net_price": null,
+      "product_hierarchy_tags": [
+      ],
+      "purchasable_balance": null,
+      "restrictions": [
+      ],
+      "return_policy": null,
+      "sell_by_weight_config": null,
+      "should_display_purchasable_balance": false,
+      "tags": [
+      ],
+      "unit_info": null,
+      "unit_price": null,
+      "variant": null,
+      "vat_category_code": "ALB-10",
+      "vat_percentage": 20,
+      "vat_percentage_decimal": "20.0",
+      "external_compliance_link": null,
+      "consent_info": {
+        "ask_consent": false,
+        "blur_image": false
+      }
+    },
+    {
+      "id": "b4f03e8e62289b3a9c939056",
+      "advertising_info": null,
+      "alcohol_permille": 0,
+      "allowed_delivery_methods": [
+        "eatin",
+        "takeaway",
+        "homedelivery"
+      ],
+      "available_times": [
+        {
+          "days": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ],
+          "start_time": 0,
+          "end_time": 86400000
+        }
+      ],
+      "barcode_gtin": null,
+      "caffeine_info": null,
+      "can_be_promoted": {
+        "basket": true,
+        "venue": true,
+        "credits": true
+      },
+      "checksum": "2e3d60201c8de1bdace346ca842d91d2",
+      "description": "Avocado, Arabic date honey, milk",
+      "deposit": null,
+      "dietary_preferences": [
+      ],
+      "disabled_info": null,
+      "fulfillment_lead_time": null,
+      "has_extra_info": false,
+      "images": [
+        {
+          "url": "https://imageproxy.wolt.com/assets/6757369133d8b646b502f464",
+          "blurhash": null
+        }
+      ],
+      "videos": [
+      ],
+      "is_cutlery": false,
+      "is_no_contact_delivery_allowed": true,
+      "is_wolt_plus_only": false,
+      "lowest_price": null,
+      "lowest_price_v2": null,
+      "max_quantity_per_purchase": null,
+      "min_quantity_per_purchase": null,
+      "name": "Avocado Smoothie",
+      "options": [
+      ],
+      "original_price": null,
+      "original_net_price": null,
+      "item_price_discount_validity_period": null,
+      "price": 45000,
+      "net_price": null,
+      "product_hierarchy_tags": [
+      ],
+      "purchasable_balance": null,
+      "restrictions": [
+      ],
+      "return_policy": null,
+      "sell_by_weight_config": null,
+      "should_display_purchasable_balance": false,
+      "tags": [
+      ],
+      "unit_info": null,
+      "unit_price": null,
+      "variant": null,
+      "vat_category_code": null,
+      "vat_percentage": 20,
+      "vat_percentage_decimal": "20.0",
+      "external_compliance_link": null,
+      "consent_info": {
+        "ask_consent": false,
+        "blur_image": false
+      }
+    },
+    {
+      "id": "b5c19e03c8a008712b9176d0",
+      "advertising_info": null,
+      "alcohol_permille": 0,
+      "allowed_delivery_methods": [
+        "eatin",
+        "takeaway",
+        "homedelivery"
+      ],
+      "available_times": [
+        {
+          "days": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ],
+          "start_time": 0,
+          "end_time": 86400000
+        }
+      ],
+      "barcode_gtin": null,
+      "caffeine_info": null,
+      "can_be_promoted": {
+        "basket": true,
+        "venue": true,
+        "credits": true},
+      "checksum": "3578159c2317b803ad3215ee9d606ddd",
+      "description": "Guda, gorgonzola white cheeses, philadelphia.",
+      "deposit": null,
+      "dietary_preferences": [
+      ],
+      "disabled_info": null,
+      "fulfillment_lead_time": null,
+      "has_extra_info": true,
+      "images": [
+        {
+          "url": "https://imageproxy.wolt.com/assets/67570e0733d8b646b502f187",
+          "blurhash": null}
+      ],
+      "videos": [
+      ],
+      "is_cutlery": false,
+      "is_no_contact_delivery_allowed": true,
+      "is_wolt_plus_only": false,
+      "lowest_price": null,
+      "lowest_price_v2": null,
+      "max_quantity_per_purchase": null,
+      "min_quantity_per_purchase": null,
+      "name": "4 Cheeses",
+      "options": [
+        {
+          "id": "dfda8ba2bb9f7bff5486b6bd",
+          "option_id": "f69d060de2a1303fafbff7dd",
+          "name": "Add extra",
+          "prerequisite_values": [
+          ],
+          "multi_choice_config": {
+            "total_range": {
+              "min": 0,
+              "max": 13
+            },
+            "max_single_selections": 1,
+            "free_selections": 0
+          }
+        }
+      ],
+      "original_price": null,
+      "original_net_price": null,
+      "item_price_discount_validity_period": null,
+      "price": 47000,
+      "net_price": null,
+      "product_hierarchy_tags": [
+      ],
+      "purchasable_balance": null,
+      "restrictions": [
+      ],
+      "return_policy": null,
+      "sell_by_weight_config": null,
+      "should_display_purchasable_balance": false,
+      "tags": [
+      ],
+      "unit_info": null,
+      "unit_price": null,
+      "variant": null,
+      "vat_category_code": null,
+      "vat_percentage": 20,
+      "vat_percentage_decimal": "20.0",
+      "external_compliance_link": null,
+      "consent_info": {
+        "ask_consent": false,
+        "blur_image": false
+      }
+    },
+    {
+      "id": "ba4f497367600e5a6ef51246",
+      "advertising_info": null,
+      "alcohol_permille": 0,
+      "allowed_delivery_methods": [
+        "eatin",
+        "takeaway",
+        "homedelivery"
+      ],
+      "available_times": [
+        {
+          "days": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ],
+          "start_time": 0,
+          "end_time": 86400000
+        }
+      ],
+      "barcode_gtin": null,
+      "caffeine_info": null,
+      "can_be_promoted": {
+        "basket": true,
+        "venue": true,
+        "credits": true
+      },
+      "checksum": "4cec70c6501ee2ba4de1703cfda4a597",
+      "description": "",
+      "deposit": null,
+      "dietary_preferences": [
+      ],
+      "disabled_info": null,
+      "fulfillment_lead_time": null,
+      "has_extra_info": false,
+      "images": [
+        {
+          "url": "https://imageproxy.wolt.com/assets/67573310466c2308cf881d3b",
+          "blurhash": null
+        }
+      ],
+      "videos": [
+      ],
+      "is_cutlery": false,
+      "is_no_contact_delivery_allowed": true,
+      "is_wolt_plus_only": false,
+      "lowest_price": null,
+      "lowest_price_v2": null,
+      "max_quantity_per_purchase": null,
+      "min_quantity_per_purchase": null,
+      "name": "Cola",
+      "options": [
+      ],
+      "original_price": null,
+      "original_net_price": null,
+      "item_price_discount_validity_period": null,
+      "price": 20000,
+      "net_price": null,
+      "product_hierarchy_tags": [
+      ],
+      "purchasable_balance": null,
+      "restrictions": [
+      ],
+      "return_policy": null,
+      "sell_by_weight_config": null,
+      "should_display_purchasable_balance": false,
+      "tags": [
+      ],
+      "unit_info": null,
+      "unit_price": null,
+      "variant": null,
+      "vat_category_code": null,
+      "vat_percentage": 20,
+      "vat_percentage_decimal": "20.0",
+      "external_compliance_link": null,
+      "consent_info": {
+        "ask_consent": false,
+        "blur_image": false
+      }
+    },
+    {
+      "id": "be2537890d50acfe9dd47f9f",
+      "advertising_info": null,
+      "alcohol_permille": 0,
+      "allowed_delivery_methods": [
+        "eatin",
+        "takeaway",
+        "homedelivery"
+      ],
+      "available_times": [
+        {
+          "days": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ],
+          "start_time": 0,
+          "end_time": 86400000
+        }
+      ],
+      "barcode_gtin": null,
+      "caffeine_info": null,
+      "can_be_promoted": {
+        "basket": true,
+        "venue": true,
+        "credits": true
+      },
+      "checksum": "2c132346a38ed3c0bb8a8483b7fcaf36",
+      "description": "",
+      "deposit": null,
+      "dietary_preferences": [
+      ],
+      "disabled_info": null,
+      "fulfillment_lead_time": null,
+      "has_extra_info": false,
+      "images": [
+        {
+          "url": "https://imageproxy.wolt.com/assets/67570e1e33d8b646b502f1c9",
+          "blurhash": null
+        }
+      ],
+      "videos": [
+      ],
+      "is_cutlery": false,
+      "is_no_contact_delivery_allowed": true,
+      "is_wolt_plus_only": false,
+      "lowest_price": null,
+      "lowest_price_v2": null,
+      "max_quantity_per_purchase": null,
+      "min_quantity_per_purchase": null,
+      "name": "White Chocolate Waffle",
+      "options": [
+        {
+          "id": "d1dc58be9e42bc4793fa2fc3",
+          "option_id": "4c445cbe4e2fa84a512bfc65",
+          "name": "Add extra",
+          "prerequisite_values": [
+          ],
+          "multi_choice_config": {
+            "total_range": {
+              "min": 0,
+              "max": 16
+            },
+            "max_single_selections": 1,
+            "free_selections": 0
+          }
+        }
+      ],
+      "original_price": null,
+      "original_net_price": null,
+      "item_price_discount_validity_period": null,
+      "price": 37000,
+      "net_price": null,
+      "product_hierarchy_tags": [
+      ],
+      "purchasable_balance": null,
+      "restrictions": [
+      ],
+      "return_policy": null,
+      "sell_by_weight_config": null,
+      "should_display_purchasable_balance": false,
+      "tags": [
+      ],
+      "unit_info": null,
+      "unit_price": null,
+      "variant": null,
+      "vat_category_code": "ALB-10",
+      "vat_percentage": 20,
+      "vat_percentage_decimal": "20.0",
+      "external_compliance_link": null,
+      "consent_info": {
+        "ask_consent": false,
+        "blur_image": false
+      }
+    },
+    {
+      "id": "c0d786267ef9bb64a7be5773",
+      "advertising_info": null,
+      "alcohol_permille": 0,
+      "allowed_delivery_methods": [
+        "eatin",
+        "takeaway",
+        "homedelivery"
+      ],
+      "available_times": [
+        {
+          "days": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ],
+          "start_time": 0,
+          "end_time": 86400000
+        }
+      ],
+      "barcode_gtin": null,
+      "caffeine_info": null,
+      "can_be_promoted": {
+        "basket": true,
+        "venue": true,
+        "credits": true
+      },
+      "checksum": "51ecde5cb67899f5efe7ee194592cd23",
+      "description": "",
+      "deposit": null,
+      "dietary_preferences": [
+      ],
+      "disabled_info": null,
+      "fulfillment_lead_time": null,
+      "has_extra_info": false,
+      "images": [
+      ],
+      "videos": [
+      ],
+      "is_cutlery": false,
+      "is_no_contact_delivery_allowed": true,
+      "is_wolt_plus_only": false,
+      "lowest_price": null,
+      "lowest_price_v2": null,
+      "max_quantity_per_purchase": null,
+      "min_quantity_per_purchase": null,
+      "name": "Kiwi Juice",
+      "options": [
+      ],
+      "original_price": null,
+      "original_net_price": null,
+      "item_price_discount_validity_period": null,
+      "price": 35000,
+      "net_price": null,
+      "product_hierarchy_tags": [
+      ],
+      "purchasable_balance": null,
+      "restrictions": [
+      ],
+      "return_policy": null,
+      "sell_by_weight_config": null,
+      "should_display_purchasable_balance": false,
+      "tags": [
+      ],
+      "unit_info": null,
+      "unit_price": null,
+      "variant": null,
+      "vat_category_code": null,
+      "vat_percentage": 20,
+      "vat_percentage_decimal": "20.0",
+      "external_compliance_link": null,
+      "consent_info": {
+        "ask_consent": false,
+        "blur_image": false
+      }
+    },
+    {
+      "id": "c60dcf5c6d3f14eb9c5118a6",
+      "advertising_info": null,
+      "alcohol_permille": 0,
+      "allowed_delivery_methods": [
+        "eatin",
+        "takeaway",
+        "homedelivery"
+      ],
+      "available_times": [
+        {
+          "days": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ],
+          "start_time": 0,
+          "end_time": 86400000
+        }
+      ],
+      "barcode_gtin": null,
+      "caffeine_info": null,
+      "can_be_promoted": {
+        "basket": true,
+        "venue": true,
+        "credits": true
+      },
+      "checksum": "2965f9d23492ab2a4e98b816679ce786",
+      "description": "Chocolate, kiwi, cookies",
+      "deposit": null,
+      "dietary_preferences": [
+      ],
+      "disabled_info": null,
+      "fulfillment_lead_time": null,
+      "has_extra_info": false,
+      "images": [
+        {
+          "url": "https://imageproxy.wolt.com/assets/67570e2333d8b646b502f1cf",
+          "blurhash": null
+        }
+      ],
+      "videos": [
+      ],
+      "is_cutlery": false,
+      "is_no_contact_delivery_allowed": true,
+      "is_wolt_plus_only": false,
+      "lowest_price": null,
+      "lowest_price_v2": null,
+      "max_quantity_per_purchase": null,
+      "min_quantity_per_purchase": null,
+      "name": "Kiwi",
+      "options": [
+        {
+          "id": "8b87b9cb12c5ce3f3e6795da",
+          "option_id": "4c445cbe4e2fa84a512bfc65",
+          "name": "Add extra",
+          "prerequisite_values": [
+          ],
+          "multi_choice_config": {
+            "total_range": {
+              "min": 0,
+              "max": 14
+            },
+            "max_single_selections": 1,
+            "free_selections": 0
+          }
+        }
+      ],
+      "original_price": null,
+      "original_net_price": null,
+      "item_price_discount_validity_period": null,
+      "price": 30000,
+      "net_price": null,
+      "product_hierarchy_tags": [
+      ],
+      "purchasable_balance": null,
+      "restrictions": [
+      ],
+      "return_policy": null,
+      "sell_by_weight_config": null,
+      "should_display_purchasable_balance": false,
+      "tags": [
+      ],
+      "unit_info": null,
+      "unit_price": null,
+      "variant": null,
+      "vat_category_code": "ALB-10",
+      "vat_percentage": 20,
+      "vat_percentage_decimal": "20.0",
+      "external_compliance_link": null,
+      "consent_info": {
+        "ask_consent": false,
+        "blur_image": false
+      }},
+    {
+      "id": "c7e9edf29f20819843a0d4a0",
+      "advertising_info": null,
+      "alcohol_permille": 0,
+      "allowed_delivery_methods": [
+        "eatin",
+        "takeaway",
+        "homedelivery"
+      ],
+      "available_times": [
+        {
+          "days": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ],
+          "start_time": 0,
+          "end_time": 86400000
+        }
+      ],
+      "barcode_gtin": null,
+      "caffeine_info": null,
+      "can_be_promoted": {
+        "basket": true,
+        "venue": true,
+        "credits": true
+      },
+      "checksum": "ee19db6ba8b5fba6e9783e8b7ac8e87d",
+      "description": "Pistachio cream, biscuits, bananas",
+      "deposit": null,
+      "dietary_preferences": [
+      ],
+      "disabled_info": null,
+      "fulfillment_lead_time": null,
+      "has_extra_info": false,
+      "images": [
+        {
+          "url": "https://imageproxy.wolt.com/assets/67570e2333d8b646b502f1d0",
+          "blurhash": null
+        }
+      ],
+      "videos": [
+      ],
+      "is_cutlery": false,
+      "is_no_contact_delivery_allowed": true,
+      "is_wolt_plus_only": false,
+      "lowest_price": null,
+      "lowest_price_v2": null,
+      "max_quantity_per_purchase": null,
+      "min_quantity_per_purchase": null,
+      "name": "LIdia with Pistachios",
+      "options": [
+        {
+          "id": "40aab8e68a56501d4533f087",
+          "option_id": "4c445cbe4e2fa84a512bfc65",
+          "name": "Add extra",
+          "prerequisite_values": [
+          ],
+          "multi_choice_config": {
+            "total_range": {
+              "min": 0,
+              "max": 14
+            },
+            "max_single_selections": 1,
+            "free_selections": 0
+          }
+        }
+      ],
+      "original_price": null,
+      "original_net_price": null,
+      "item_price_discount_validity_period": null,
+      "price": 45000,
+      "net_price": null,
+      "product_hierarchy_tags": [
+      ],
+      "purchasable_balance": null,
+      "restrictions": [
+      ],
+      "return_policy": null,
+      "sell_by_weight_config": null,
+      "should_display_purchasable_balance": false,
+      "tags": [
+      ],
+      "unit_info": null,
+      "unit_price": null,
+      "variant": null,
+      "vat_category_code": "ALB-10",
+      "vat_percentage": 20,
+      "vat_percentage_decimal": "20.0",
+      "external_compliance_link": null,
+      "consent_info": {
+        "ask_consent": false,
+        "blur_image": false
+      }
+    },
+    {
+      "id": "cc41340a4470f2a753bacee6",
+      "advertising_info": null,
+      "alcohol_permille": 0,
+      "allowed_delivery_methods": [
+        "eatin",
+        "takeaway",
+        "homedelivery"
+      ],
+      "available_times": [
+        {
+          "days": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ],
+          "start_time": 0,
+          "end_time": 86400000
+        }
+      ],
+      "barcode_gtin": null,
+      "caffeine_info": null,
+      "can_be_promoted": {
+        "basket": true,
+        "venue": true,
+        "credits": true
+      },
+      "checksum": "a5752979eae042c0e4ece49542aa3602",
+      "description": "Tuna, corn, green salad, tomato, philadelphia, gouda.",
+      "deposit": null,
+      "dietary_preferences": [
+      ],
+      "disabled_info": null,
+      "fulfillment_lead_time": null,
+      "has_extra_info": true,
+      "images": [
+        {
+          "url": "https://imageproxy.wolt.com/assets/67570e0c33d8b646b502f19b",
+          "blurhash": "jhOEZ9lp;WOWGFCpCppST7KDhnln"
+        }
+      ],
+      "videos": [
+      ],
+      "is_cutlery": false,
+      "is_no_contact_delivery_allowed": true,
+      "is_wolt_plus_only": false,
+      "lowest_price": null,
+      "lowest_price_v2": null,
+      "max_quantity_per_purchase": null,
+      "min_quantity_per_purchase": null,
+      "name": "Tuna",
+      "options": [
+        {
+          "id": "26e60f983617dae725a14099",
+          "option_id": "f69d060de2a1303fafbff7dd",
+          "name": "Add extra",
+          "prerequisite_values": [
+          ],
+          "multi_choice_config": {
+            "total_range": {
+              "min": 0,
+              "max": 13
+            },
+            "max_single_selections": 1,
+            "free_selections": 0
+          }
+        }
+      ],
+      "original_price": null,
+      "original_net_price": null,
+      "item_price_discount_validity_period": null,
+      "price": 45000,
+      "net_price": null,
+      "product_hierarchy_tags": [
+      ],
+      "purchasable_balance": null,
+      "restrictions": [
+      ],
+      "return_policy": null,
+      "sell_by_weight_config": null,
+      "should_display_purchasable_balance": false,
+      "tags": [
+      ],
+      "unit_info": null,
+      "unit_price": null,
+      "variant": null,
+      "vat_category_code": null,
+      "vat_percentage": 20,
+      "vat_percentage_decimal": "20.0",
+      "external_compliance_link": null,
+      "consent_info": {
+        "ask_consent": false,
+        "blur_image": false
+      }
+    },
+    {
+      "id": "d239954d02e892675626672d",
+      "advertising_info": null,
+      "alcohol_permille": 0,
+      "allowed_delivery_methods": [
+        "eatin",
+        "takeaway",
+        "homedelivery"
+      ],
+      "available_times": [
+        {
+          "days": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ],
+          "start_time": 0,
+          "end_time": 86400000
+        }
+      ],
+      "barcode_gtin": null,
+      "caffeine_info": null,
+      "can_be_promoted": {
+        "basket": true,
+        "venue": true,
+        "credits": true
+      },
+      "checksum": "62b32b0c6c223864167b6326ad0e60c3",
+      "description": "",
+      "deposit": null,
+      "dietary_preferences": [
+      ],
+      "disabled_info": null,
+      "fulfillment_lead_time": null,
+      "has_extra_info": false,
+      "images": [
+        {
+          "url": "https://imageproxy.wolt.com/assets/68cc8d841ba3ae9b1ce169f3",
+          "blurhash": null
+        }
+      ],
+      "videos": [
+      ],
+      "is_cutlery": false,
+      "is_no_contact_delivery_allowed": true,
+      "is_wolt_plus_only": false,
+      "lowest_price": null,
+      "lowest_price_v2": null,
+      "max_quantity_per_purchase": null,
+      "min_quantity_per_purchase": null,
+      "name": "Corona",
+      "options": [
+      ],
+      "original_price": null,
+      "original_net_price": null,
+      "item_price_discount_validity_period": null,
+      "price": 45000,
+      "net_price": null,
+      "product_hierarchy_tags": ["ALCOHOL",
+        "BEER"
+      ],
+      "purchasable_balance": null,
+      "restrictions": [
+        {
+          "type": "age_restricted",
+          "age_limit": 18
+        }
+      ],
+      "return_policy": null,
+      "sell_by_weight_config": null,
+      "should_display_purchasable_balance": false,
+      "tags": [
+      ],
+      "unit_info": null,
+      "unit_price": null,
+      "variant": null,
+      "vat_category_code": "ALB-10",
+      "vat_percentage": 20,
+      "vat_percentage_decimal": "20.0",
+      "external_compliance_link": null,
+      "consent_info": {
+        "ask_consent": false,
+        "blur_image": false
+      }
+    },
+    {
+      "id": "d37ed398a469daea821f3660",
+      "advertising_info": null,
+      "alcohol_permille": 0,
+      "allowed_delivery_methods": [
+        "eatin",
+        "takeaway",
+        "homedelivery"
+      ],
+      "available_times": [
+        {
+          "days": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7],
+          "start_time": 0,
+          "end_time": 86400000
+        }
+      ],
+      "barcode_gtin": null,
+      "caffeine_info": null,
+      "can_be_promoted": {
+        "basket": true,
+        "venue": true,
+        "credits": true
+      },
+      "checksum": "7a0837b890a489278e1b7fa4d895be4b",
+      "description": "",
+      "deposit": null,
+      "dietary_preferences": [
+      ],
+      "disabled_info": null,
+      "fulfillment_lead_time": null,
+      "has_extra_info": false,
+      "images": [
+        {
+          "url": "https://imageproxy.wolt.com/assets/682c34957957faa8599ca57e",
+          "blurhash": null
+        }
+      ],
+      "videos": [
+      ],
+      "is_cutlery": false,
+      "is_no_contact_delivery_allowed": true,
+      "is_wolt_plus_only": false,
+      "lowest_price": null,
+      "lowest_price_v2": null,
+      "max_quantity_per_purchase": null,
+      "min_quantity_per_purchase": null,
+      "name": "Lidia Pistachio + Milanese + Juice of Life",
+      "options": [
+      ],
+      "original_price": null,
+      "original_net_price": null,
+      "item_price_discount_validity_period": null,
+      "price": 109000,
+      "net_price": null,
+      "product_hierarchy_tags": [
+      ],
+      "purchasable_balance": null,
+      "restrictions": [
+      ],
+      "return_policy": null,
+      "sell_by_weight_config": null,
+      "should_display_purchasable_balance": false,
+      "tags": [
+      ],
+      "unit_info": null,
+      "unit_price": null,
+      "variant": null,
+      "vat_category_code": "ALB-10",
+      "vat_percentage": 20,
+      "vat_percentage_decimal": "20.0",
+      "external_compliance_link": null,
+      "consent_info": {
+        "ask_consent": false,
+        "blur_image": false
+      }
+    },
+    {
+      "id": "dbd03e2bc2f4c955543a0f0b",
+      "advertising_info": null,
+      "alcohol_permille": 0,
+      "allowed_delivery_methods": [
+        "eatin",
+        "takeaway",
+        "homedelivery"
+      ],
+      "available_times": [
+        {
+          "days": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ],
+          "start_time": 0,
+          "end_time": 86400000
+        }
+      ],
+      "barcode_gtin": null,
+      "caffeine_info": null,
+      "can_be_promoted": {
+        "basket": true,
+        "venue": true,
+        "credits": true
+      },
+      "checksum": "4e23ae25470e0141b2b56788f0ee7e3c",
+      "description": "Dark or white chocolate, oreo",
+      "deposit": null,
+      "dietary_preferences": [
+      ],
+      "disabled_info": null,
+      "fulfillment_lead_time": null,
+      "has_extra_info": false,
+      "images": [
+        {
+          "url": "https://imageproxy.wolt.com/assets/67570e1933d8b646b502f1c6",
+          "blurhash": null
+        }
+      ],
+      "videos": [
+      ],
+      "is_cutlery": false,
+      "is_no_contact_delivery_allowed": true,
+      "is_wolt_plus_only": false,
+      "lowest_price": null,
+      "lowest_price_v2": null,
+      "max_quantity_per_purchase": null,
+      "min_quantity_per_purchase": null,
+      "name": "Oreo",
+      "options": [
+        {
+          "id": "521bafd02367711f81daee0d",
+          "option_id": "d8f119d13c39e6df362194f5",
+          "name": "Choose",
+          "prerequisite_values": [
+          ],
+          "multi_choice_config": {
+            "total_range": {
+              "min": 0,
+              "max": 2
+            },
+            "max_single_selections": 1,
+            "free_selections": 0
+          }
+        },
+        {
+          "id": "600d53a87984db419dbbd1b8",
+          "option_id": "4c445cbe4e2fa84a512bfc65",
+          "name": "Add extra",
+          "prerequisite_values": [
+          ],
+          "multi_choice_config": {
+            "total_range": {
+              "min": 0,
+              "max": 14
+            },
+            "max_single_selections": 1,
+            "free_selections": 0
+          }
+        }
+      ],
+      "original_price": null,
+      "original_net_price": null,
+      "item_price_discount_validity_period": null,
+      "price": 35000,
+      "net_price": null,
+      "product_hierarchy_tags": [
+      ],
+      "purchasable_balance": null,
+      "restrictions": [
+      ],
+      "return_policy": null,
+      "sell_by_weight_config": null,
+      "should_display_purchasable_balance": false,
+      "tags": [
+      ],
+      "unit_info": null,
+      "unit_price": null,
+      "variant": null,
+      "vat_category_code": "ALB-10",
+      "vat_percentage": 20,
+      "vat_percentage_decimal": "20.0",
+      "external_compliance_link": null,
+      "consent_info": {
+        "ask_consent": false,
+        "blur_image": false
+      }
+    },
+    {
+      "id": "dd1d4a6320a7fe1b52c48dd3",
+      "advertising_info": null,
+      "alcohol_permille": 0,
+      "allowed_delivery_methods": [
+        "eatin",
+        "takeaway",
+        "homedelivery"
+      ],
+      "available_times": [
+        {
+          "days": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ],
+          "start_time": 0,
+          "end_time": 86400000
+        }
+      ],
+      "barcode_gtin": null,
+      "caffeine_info": null,
+      "can_be_promoted": {
+        "basket": true,
+        "venue": true,
+        "credits": true
+      },
+      "checksum": "b3cb03a45f207a9e71ca7b2faf65f52e",
+      "description": "White cucumber tomato cheese sauce, peppers and olives",
+      "deposit": null,
+      "dietary_preferences": [
+      ],
+      "disabled_info": null,
+      "fulfillment_lead_time": null,
+      "has_extra_info": true,
+      "images": [
+        {
+          "url": "https://imageproxy.wolt.com/assets/67570e0c33d8b646b502f19a",
+          "blurhash": null
+        }
+      ],
+      "videos": [
+      ],
+      "is_cutlery": false,
+      "is_no_contact_delivery_allowed": true,
+      "is_wolt_plus_only": false,
+      "lowest_price": null,
+      "lowest_price_v2": null,
+      "max_quantity_per_purchase": null,
+      "min_quantity_per_purchase": null,
+      "name": "Crepe Village",
+      "options": [
+        {
+          "id": "97daca5fdf7e4a7f5ff768ab",
+          "option_id": "f69d060de2a1303fafbff7dd",
+          "name": "Add extra",
+          "prerequisite_values": [
+          ],
+          "multi_choice_config": {
+            "total_range": {
+              "min": 0,
+              "max": 13
+            },
+            "max_single_selections": 1,
+            "free_selections": 0
+          }
+        }
+      ],
+      "original_price": null,
+      "original_net_price": null,
+      "item_price_discount_validity_period": null,
+      "price": 45000,
+      "net_price": null,
+      "product_hierarchy_tags": [
+      ],
+      "purchasable_balance": null,
+      "restrictions": [
+      ],
+      "return_policy": null,
+      "sell_by_weight_config": null,
+      "should_display_purchasable_balance": false,
+      "tags": [
+      ],
+      "unit_info": null,
+      "unit_price": null,
+      "variant": null,
+      "vat_category_code": null,
+      "vat_percentage": 20,
+      "vat_percentage_decimal": "20.0",
+      "external_compliance_link": null,
+      "consent_info": {
+        "ask_consent": false,
+        "blur_image": false
+      }
+    },
+    {
+      "id": "e78c69cccf16ce52e286c155",
+      "advertising_info": null,
+      "alcohol_permille": 0,
+      "allowed_delivery_methods": [
+        "eatin",
+        "takeaway",
+        "homedelivery"
+      ],
+      "available_times": [
+        {
+          "days": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ],
+          "start_time": 0,
+          "end_time": 86400000
+        }
+      ],
+      "barcode_gtin": null,
+      "caffeine_info": null,
+      "can_be_promoted": {
+        "basket": true,
+        "venue": true,
+        "credits": true
+      },
+      "checksum": "c66fa3153c36b7816b0d0b2248679846",
+      "description": "",
+      "deposit": null,
+      "dietary_preferences": [
+      ],
+      "disabled_info": null,
+      "fulfillment_lead_time": null,
+      "has_extra_info": false,
+      "images": [
+      ],
+      "videos": [
+      ],
+      "is_cutlery": false,
+      "is_no_contact_delivery_allowed": true,
+      "is_wolt_plus_only": false,
+      "lowest_price": null,
+      "lowest_price_v2": null,
+      "max_quantity_per_purchase": null,
+      "min_quantity_per_purchase": null,
+      "name": "Apple, Banana, Kiwi",
+      "options": [
+      ],
+      "original_price": 40000,
+      "original_net_price": null,
+      "item_price_discount_validity_period": null,
+      "price": 35000,
+      "net_price": null,
+      "product_hierarchy_tags": [
+      ],
+      "purchasable_balance": null,
+      "restrictions": [
+      ],
+      "return_policy": null,
+      "sell_by_weight_config": null,
+      "should_display_purchasable_balance": false,
+      "tags": [
+      ],
+      "unit_info": null,
+      "unit_price": null,
+      "variant": null,
+      "vat_category_code": null,
+      "vat_percentage": 20,
+      "vat_percentage_decimal": "20.0",
+      "external_compliance_link": null,
+      "consent_info": {
+        "ask_consent": false,
+        "blur_image": false
+      }
+    },
+    {
+      "id": "e80de04b5e1acd041b84c564",
+      "advertising_info": null,
+      "alcohol_permille": 0,
+      "allowed_delivery_methods": [
+        "eatin",
+        "takeaway",
+        "homedelivery"
+      ],
+      "available_times": [
+        {
+          "days": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ],
+          "start_time": 0,
+          "end_time": 86400000
+        }
+      ],
+      "barcode_gtin": null,
+      "caffeine_info": null,
+      "can_be_promoted": {
+        "basket": true,
+        "venue": true,
+        "credits": true
+      },
+      "checksum": "fea3ce4b2aaee41ca35c8b8a2ab6d6a0",
+      "description": "Chocolate, strawberries",
+      "deposit": null,
+      "dietary_preferences": [
+      ],
+      "disabled_info": null,
+      "fulfillment_lead_time": null,
+      "has_extra_info": false,
+      "images": [
+        {"url": "https://imageproxy.wolt.com/assets/67570e1933d8b646b502f1c5",
+          "blurhash": null
+        }
+      ],
+      "videos": [
+      ],
+      "is_cutlery": false,
+      "is_no_contact_delivery_allowed": true,
+      "is_wolt_plus_only": false,
+      "lowest_price": null,
+      "lowest_price_v2": null,
+      "max_quantity_per_purchase": null,
+      "min_quantity_per_purchase": null,
+      "name": "Strawberry",
+      "options": [
+        {
+          "id": "738ada471935156fc9f58584",
+          "option_id": "4c445cbe4e2fa84a512bfc65",
+          "name": "Add extra",
+          "prerequisite_values": [
+          ],
+          "multi_choice_config": {
+            "total_range": {
+              "min": 0,
+              "max": 14
+            },
+            "max_single_selections": 1,
+            "free_selections": 0
+          }
+        }
+      ],
+      "original_price": null,
+      "original_net_price": null,
+      "item_price_discount_validity_period": null,
+      "price": 35000,
+      "net_price": null,
+      "product_hierarchy_tags": [
+      ],
+      "purchasable_balance": null,
+      "restrictions": [
+      ],
+      "return_policy": null,
+      "sell_by_weight_config": null,
+      "should_display_purchasable_balance": false,
+      "tags": [
+        {
+          "id": "popular",
+          "label": "Popular",
+          "decoration": "star",
+          "color": "primary",
+          "style": {
+            "background_color": "#009de0",
+            "text_color": "#ffffff",
+            "background_color_key": "color-bg-fill-brand",
+            "text_color_key": "color-text-on-bg-fill-brand"
+          }
+        }
+      ],
+      "unit_info": null,
+      "unit_price": null,
+      "variant": null,
+      "vat_category_code": "ALB-10",
+      "vat_percentage": 20,
+      "vat_percentage_decimal": "20.0",
+      "external_compliance_link": null,
+      "consent_info": {
+        "ask_consent": false,
+        "blur_image": false
+      }
+    },
+    {
+      "id": "e9a91ee1b50655e91c23dd9d",
+      "advertising_info": null,
+      "alcohol_permille": 0,
+      "allowed_delivery_methods": [
+        "eatin",
+        "takeaway",
+        "homedelivery"
+      ],
+      "available_times": [
+        {
+          "days": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ],
+          "start_time": 0,
+          "end_time": 86400000
+        }
+      ],
+      "barcode_gtin": null,
+      "caffeine_info": null,
+      "can_be_promoted": {
+        "basket": true,
+        "venue": true,
+        "credits": true
+      },
+      "checksum": "e02dc7cb02ba6096abb02c4572607220",
+      "description": "Guda, chicken fillet, green salad, philadelphia tomatoes, vinaigrette.",
+      "deposit": null,
+      "dietary_preferences": [
+      ],
+      "disabled_info": null,
+      "fulfillment_lead_time": null,
+      "has_extra_info": true,
+      "images": [
+        {
+          "url": "https://imageproxy.wolt.com/assets/67570e0c33d8b646b502f19c",
+          "blurhash": null
+        }
+      ],
+      "videos": [
+      ],
+      "is_cutlery": false,
+      "is_no_contact_delivery_allowed": true,
+      "is_wolt_plus_only": false,
+      "lowest_price": null,
+      "lowest_price_v2": null,
+      "max_quantity_per_purchase": null,
+      "min_quantity_per_purchase": null,
+      "name": "Caesar",
+      "options": [
+        {
+          "id": "7a1d446bb1d964512cf98205",
+          "option_id": "f69d060de2a1303fafbff7dd",
+          "name": "Add extra",
+          "prerequisite_values": [
+          ],
+          "multi_choice_config": {
+            "total_range": {
+              "min": 0,
+              "max": 13
+            },
+            "max_single_selections": 1,
+            "free_selections": 0
+          }
+        }
+      ],
+      "original_price": null,
+      "original_net_price": null,
+      "item_price_discount_validity_period": null,
+      "price": 33000,
+      "net_price": null,
+      "product_hierarchy_tags": [
+      ],
+      "purchasable_balance": null,
+      "restrictions": [
+      ],
+      "return_policy": null,
+      "sell_by_weight_config": null,
+      "should_display_purchasable_balance": false,
+      "tags": [
+      ],
+      "unit_info": null,
+      "unit_price": null,
+      "variant": null,
+      "vat_category_code": null,
+      "vat_percentage": 20,
+      "vat_percentage_decimal": "20.0",
+      "external_compliance_link": null,
+      "consent_info": {
+        "ask_consent": false,
+        "blur_image": false
+      }
+    },
+    {
+      "id": "ed4b4db1507cdf99c2495227",
+      "advertising_info": null,
+      "alcohol_permille": 0,
+      "allowed_delivery_methods": [
+        "eatin",
+        "takeaway",
+        "homedelivery"
+      ],
+      "available_times": [
+        {
+          "days": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ],
+          "start_time": 0,
+          "end_time": 86400000
+        }
+      ],
+      "barcode_gtin": null,
+      "caffeine_info": null,
+      "can_be_promoted": {
+        "basket": true,
+        "venue": true,
+        "credits": true
+      },
+      "checksum": "4d2608ed4bd7aa92cf854993d79321c2",
+      "description": "Pineapple, white chocolate, coconut",
+      "deposit": null,
+      "dietary_preferences": [
+      ],
+      "disabled_info": null,
+      "fulfillment_lead_time": null,
+      "has_extra_info": false,
+      "images": [
+        {
+          "url": "https://imageproxy.wolt.com/assets/67570e1e33d8b646b502f1ca",
+          "blurhash": null
+        }
+      ],
+      "videos": [
+      ],
+      "is_cutlery": false,
+      "is_no_contact_delivery_allowed": true,
+      "is_wolt_plus_only": false,
+      "lowest_price": null,
+      "lowest_price_v2": null,
+      "max_quantity_per_purchase": null,
+      "min_quantity_per_purchase": null,
+      "name": "Pineapple",
+      "options": [
+        {
+          "id": "c8228a066538997a789b518a",
+          "option_id": "4c445cbe4e2fa84a512bfc65",
+          "name": "Add extra",
+          "prerequisite_values": [
+          ],
+          "multi_choice_config": {
+            "total_range": {
+              "min": 0,
+              "max": 14
+            },
+            "max_single_selections": 1,
+            "free_selections": 0
+          }
+        }
+      ],
+      "original_price": 42000,
+      "original_net_price": null,
+      "item_price_discount_validity_period": null,
+      "price": 37000,
+      "net_price": null,
+      "product_hierarchy_tags": [
+      ],
+      "purchasable_balance": null,
+      "restrictions": [
+      ],
+      "return_policy": null,
+      "sell_by_weight_config": null,
+      "should_display_purchasable_balance": false,
+      "tags": [
+      ],
+      "unit_info": null,
+      "unit_price": null,
+      "variant": null,
+      "vat_category_code": "ALB-10",
+      "vat_percentage": 20,
+      "vat_percentage_decimal": "20.0",
+      "external_compliance_link": null,
+      "consent_info": {
+        "ask_consent": false,
+        "blur_image": false
+      }
+    },
+    {
+      "id": "efab9aa52b6d3f51a120aff6",
+      "advertising_info": null,
+      "alcohol_permille": 0,
+      "allowed_delivery_methods": [
+        "eatin",
+        "takeaway",
+        "homedelivery"
+      ],
+      "available_times": [
+        {
+          "days": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ],
+          "start_time": 0,
+          "end_time": 86400000
+        }
+      ],
+      "barcode_gtin": null,
+      "caffeine_info": null,
+      "can_be_promoted": {
+        "basket": true,
+        "venue": true,
+        "credits": true
+      },
+      "checksum": "a72b85afcf98db14eb5e0eb87ae4dcbb",
+      "description": "Philadelphia, avocado, pepper, grana, green salad, tomato, cucumber.",
+      "deposit": null,
+      "dietary_preferences": [
+      ],
+      "disabled_info": null,
+      "fulfillment_lead_time": null,
+      "has_extra_info": true,
+      "images": [
+        {
+          "url": "https://imageproxy.wolt.com/assets/67570e86466c2308cf8819be",
+          "blurhash": "jhNoR9tC;WGGKWxVlCCDT6GGhplm"
+        }
+      ],
+      "videos": [
+      ],
+      "is_cutlery": false,
+      "is_no_contact_delivery_allowed": true,
+      "is_wolt_plus_only": false,
+      "lowest_price": null,
+      "lowest_price_v2": null,
+      "max_quantity_per_purchase": null,
+      "min_quantity_per_purchase": null,
+      "name": "Vegetarians",
+      "options": [{
+        "id": "2971bfc602620f2c6f18b977",
+        "option_id": "f69d060de2a1303fafbff7dd",
+        "name": "Add extra",
+        "prerequisite_values": [
+        ],
+        "multi_choice_config": {
+          "total_range": {
+            "min": 0,
+            "max": 13
+          },
+          "max_single_selections": 1,
+          "free_selections": 0
+        }
+      }
+      ],
+      "original_price": null,
+      "original_net_price": null,
+      "item_price_discount_validity_period": null,
+      "price": 35000,
+      "net_price": null,
+      "product_hierarchy_tags": [
+      ],
+      "purchasable_balance": null,
+      "restrictions": [
+      ],
+      "return_policy": null,
+      "sell_by_weight_config": null,
+      "should_display_purchasable_balance": false,
+      "tags": [
+      ],
+      "unit_info": null,
+      "unit_price": null,
+      "variant": null,
+      "vat_category_code": null,
+      "vat_percentage": 20,
+      "vat_percentage_decimal": "20.0",
+      "external_compliance_link": null,
+      "consent_info": {
+        "ask_consent": false,
+        "blur_image": false
+      }
+    },
+    {
+      "id": "fac4bf6c4d2c5ed00d639c7d",
+      "advertising_info": null,
+      "alcohol_permille": 0,
+      "allowed_delivery_methods": [
+        "eatin",
+        "takeaway",
+        "homedelivery"
+      ],
+      "available_times": [
+        {
+          "days": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ],
+          "start_time": 0,
+          "end_time": 86400000
+        }
+      ],
+      "barcode_gtin": null,
+      "caffeine_info": null,
+      "can_be_promoted": {
+        "basket": true,
+        "venue": true,
+        "credits": true
+      },
+      "checksum": "66223ab4beb83c33d0d7c1169bb7d04c",
+      "description": "",
+      "deposit": null,
+      "dietary_preferences": [
+      ],
+      "disabled_info": null,
+      "fulfillment_lead_time": null,
+      "has_extra_info": false,
+      "images": [
+        {
+          "url": "https://imageproxy.wolt.com/assets/67570e1533d8b646b502f1bf",
+          "blurhash": null
+        }
+      ],
+      "videos": [
+      ],
+      "is_cutlery": false,
+      "is_no_contact_delivery_allowed": true,
+      "is_wolt_plus_only": false,
+      "lowest_price": null,
+      "lowest_price_v2": null,
+      "max_quantity_per_purchase": null,
+      "min_quantity_per_purchase": null,
+      "name": "Nutella",
+      "options": [
+        {
+          "id": "b81f54904f0a62812c078b57",
+          "option_id": "4c445cbe4e2fa84a512bfc65",
+          "name": "Add extra",
+          "prerequisite_values": [
+          ],
+          "multi_choice_config": {
+            "total_range": {
+              "min": 0,
+              "max": 14
+            },
+            "max_single_selections": 1,
+            "free_selections": 0
+          }
+        }
+      ],
+      "original_price": null,
+      "original_net_price": null,
+      "item_price_discount_validity_period": null,
+      "price": 28000,
+      "net_price": null,
+      "product_hierarchy_tags": [
+      ],
+      "purchasable_balance": null,
+      "restrictions": [
+      ],
+      "return_policy": null,
+      "sell_by_weight_config": null,
+      "should_display_purchasable_balance": false,
+      "tags": [
+        {
+          "id": "popular",
+          "label": "Popular",
+          "decoration": "star",
+          "color": "primary",
+          "style": {
+            "background_color": "#009de0",
+            "text_color": "#ffffff",
+            "background_color_key": "color-bg-fill-brand",
+            "text_color_key": "color-text-on-bg-fill-brand"
+          }
+        }
+      ],
+      "unit_info": null,
+      "unit_price": null,
+      "variant": null,
+      "vat_category_code": "ALB-10",
+      "vat_percentage": 20,
+      "vat_percentage_decimal": "20.0",
+      "external_compliance_link": null,
+      "consent_info": {
+        "ask_consent": false,
+        "blur_image": false
+      }
+    },
+    {
+      "id": "fd79cdb10909653adaeed762",
+      "advertising_info": null,
+      "alcohol_permille": 0,
+      "allowed_delivery_methods": [
+        "eatin",
+        "takeaway",
+        "homedelivery"
+      ],
+      "available_times": [
+        {
+          "days": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ],
+          "start_time": 0,
+          "end_time": 86400000
+        }
+      ],
+      "barcode_gtin": null,
+      "caffeine_info": null,
+      "can_be_promoted": {
+        "basket": true,
+        "venue": true,
+        "credits": true
+      },
+      "checksum": "187dc1afa9023efd1d10e32cefb63cb3",
+      "description": "Chocolate & strawberry, nutella & banana, white chocolate, pineapple & coconut, pistachio & crushed pistachio",
+      "deposit": null,
+      "dietary_preferences": [
+      ],
+      "disabled_info": null,
+      "fulfillment_lead_time": null,
+      "has_extra_info": false,
+      "images": [
+        {
+          "url": "https://imageproxy.wolt.com/assets/682af0308a57ca1457e50de4",
+          "blurhash": null
+        }
+      ],
+      "videos": [
+      ],
+      "is_cutlery": false,
+      "is_no_contact_delivery_allowed": true,
+      "is_wolt_plus_only": false,
+      "lowest_price": null,
+      "lowest_price_v2": null,
+      "max_quantity_per_purchase": null,
+      "min_quantity_per_purchase": null,
+      "name": "The House of Crepes",
+      "options": [
+        {
+          "id": "4c3ba1a1ec6bc316b684ac7e",
+          "option_id": "2b649d01a9761c117be46233",
+          "name": "Add drink",
+          "prerequisite_values": [
+          ],
+          "multi_choice_config": {
+            "total_range": {
+              "min": 0,
+              "max": 5
+            },
+            "max_single_selections": 1,
+            "free_selections": 0
+          }
+        }
+      ],
+      "original_price": 72000,
+      "original_net_price": null,
+      "item_price_discount_validity_period": null,
+      "price": 66000,
+      "net_price": null,
+      "product_hierarchy_tags": [
+      ],
+      "purchasable_balance": null,
+      "restrictions": [
+      ],
+      "return_policy": null,
+      "sell_by_weight_config": null,
+      "should_display_purchasable_balance": false,
+      "tags": [
+      ],
+      "unit_info": null,
+      "unit_price": null,
+      "variant": null,
+      "vat_category_code": "ALB-10",
+      "vat_percentage": 20,
+      "vat_percentage_decimal": "20.0",
+      "external_compliance_link": null,
+      "consent_info": {
+        "ask_consent": false,
+        "blur_image": false
+      }
+    }
+  ],
+  "options": [
+    {
+      "id": "4c445cbe4e2fa84a512bfc65",
+      "name": "Add extra",
+      "type": "multi_choice",
+      "values": [
+        {
+          "id": "e8c5fc5ac2deab4f7a874ae8",
+          "deposit": null,
+          "dietary_preferences": [
+          ],
+          "name": "nutella",
+          "price": 10000,
+          "multi_choice_config": {
+            "total_range": {
+              "min": 0,
+              "max": 0
+            }
+          }
+        },
+        {
+          "id": "5131005ccb041caa3850d2c4",
+          "deposit": null,
+          "dietary_preferences": [
+          ],
+          "name": "chocolate",
+          "price": 10000,
+          "multi_choice_config": {
+            "total_range": {
+              "min": 0,
+              "max": 0
+            }
+          }
+        },
+        {
+          "id": "c1212a4686b1f1adf1f0e41c",
+          "deposit": null,
+          "dietary_preferences": [
+          ],
+          "name": "walnuts",
+          "price": 10000,
+          "multi_choice_config": {
+            "total_range": {
+              "min": 0,
+              "max": 0
+            }
+          }
+        },
+        {
+          "id": "d3630c775fb5d66dc3206a47",
+          "deposit": null,
+          "dietary_preferences": [
+          ],
+          "name": "almonds",
+          "price": 10000,
+          "multi_choice_config": {
+            "total_range": {
+              "min": 0,
+              "max": 0
+            }
+          }
+        },
+        {
+          "id": "c3d8028270a15fe41c09dcc1",
+          "deposit": null,
+          "dietary_preferences": [
+          ],
+          "name": "hazelnut",
+          "price": 10000,
+          "multi_choice_config": {
+            "total_range": {
+              "min": 0,
+              "max": 0
+            }
+          }
+        },
+        {
+          "id": "a723bc2b55761866a17f2798",
+          "deposit": null,
+          "dietary_preferences": [
+          ],
+          "name": "biscuit",
+          "price": 8000,
+          "multi_choice_config": {
+            "total_range": {
+              "min": 0,
+              "max": 0
+            }
+          }
+        },
+        {
+          "id": "205b5bc7667b47e66efa9899",
+          "deposit": null,
+          "dietary_preferences": [
+          ],
+          "name": "bananas",
+          "price": 8000,
+          "multi_choice_config": {
+            "total_range": {
+              "min": 0,
+              "max": 0
+            }
+          }
+        },
+        {"id": "b23df15385ff410d2c8954d9",
+          "deposit": null,
+          "dietary_preferences": [
+          ],
+          "name": "kiwi",
+          "price": 10000,
+          "multi_choice_config": {
+            "total_range": {
+              "min": 0,
+              "max": 0
+            }
+          }
+        },
+        {
+          "id": "eb16f78aef99830169c43a4f",
+          "deposit": null,
+          "dietary_preferences": [
+          ],
+          "name": "raisins",
+          "price": 8000,
+          "multi_choice_config": {
+            "total_range": {
+              "min": 0,
+              "max": 0
+            }
+          }
+        },
+        {
+          "id": "90ab4b31148dd1589c9a3327",
+          "deposit": null,
+          "dietary_preferences": [
+          ],
+          "name": "coconut",
+          "price": 10000,
+          "multi_choice_config": {
+            "total_range": {
+              "min": 0,
+              "max": 0
+            }
+          }
+        },
+        {
+          "id": "f07c0a4335c88e40a9f130bc",
+          "deposit": null,
+          "dietary_preferences": [
+          ],
+          "name": "strawberry",
+          "price": 10000,
+          "multi_choice_config": {
+            "total_range": {
+              "min": 0,
+              "max": 0
+            }
+          }
+        },
+        {
+          "id": "fd96b8ed933cf56cdafa7775",
+          "deposit": null,
+          "dietary_preferences": [
+          ],
+          "name": "pistachios",
+          "price": 15000,
+          "multi_choice_config": {
+            "total_range": {
+              "min": 0,
+              "max": 0
+            }
+          }
+        },
+        {
+          "id": "8aade56e17a10ae2297e6e50",
+          "deposit": null,
+          "dietary_preferences": [
+          ],
+          "name": "oreo",
+          "price": 10000,
+          "multi_choice_config": {
+            "total_range": {
+              "min": 0,
+              "max": 0
+            }
+          }
+        },
+        {
+          "id": "056af1241d0c74099f047beb",
+          "deposit": null,
+          "dietary_preferences": [
+          ],
+          "name": "white chocolate",
+          "price": 10000,
+          "multi_choice_config": {
+            "total_range": {
+              "min": 0,
+              "max": 0
+            }
+          }
+        },
+        {
+          "id": "e73ca24dda4d2a88f3761caf",
+          "deposit": null,
+          "dietary_preferences": [
+          ],
+          "name": "kinder",
+          "price": 12000,
+          "multi_choice_config": {
+            "total_range": {
+              "min": 0,
+              "max": 0
+            }
+          }
+        }
+      ],
+      "default_value": "e8c5fc5ac2deab4f7a874ae8",
+      "has_extra_info": false
+    },
+    {
+      "id": "d8f119d13c39e6df362194f5",
+      "name": "Choose",
+      "type": "multi_choice",
+      "values": [
+        {
+          "id": "93d7df7e9dea5fa2900eaed0",
+          "deposit": null,
+          "dietary_preferences": [
+          ],
+          "name": "white chocolate",
+          "price": 0,
+          "multi_choice_config": {
+            "total_range": {
+              "min": 0,
+              "max": 0
+            }
+          }
+        },
+        {
+          "id": "509ba662c1b33d50248d9c0f",
+          "deposit": null,
+          "dietary_preferences": [
+          ],
+          "name": "dark chocolate",
+          "price": 0,
+          "multi_choice_config": {
+            "total_range": {
+              "min": 0,
+              "max": 0
+            }
+          }
+        }
+      ],
+      "default_value": "93d7df7e9dea5fa2900eaed0",
+      "has_extra_info": false
+    },
+    {
+      "id": "432aaa4b33fa9cd6459bcbca",
+      "name": "Choose",
+      "type": "choice",
+      "values": [
+        {
+          "id": "654e993142948e8d176f94aa",
+          "deposit": null,
+          "dietary_preferences": [
+          ],
+          "name": "white chocolate",
+          "price": 0,
+          "multi_choice_config": {
+            "total_range": {
+              "min": 0,
+              "max": 1
+            }
+          }
+        },
+        {
+          "id": "067af734972aa3f34f87f5e9",
+          "deposit": null,
+          "dietary_preferences": [
+          ],
+          "name": "dark chocolate",
+          "price": 0,
+          "multi_choice_config": {
+            "total_range": {
+              "min": 0,
+              "max": 1
+            }
+          }
+        }
+      ],
+      "default_value": "654e993142948e8d176f94aa",
+      "has_extra_info": false
+    },
+    {
+      "id": "f69d060de2a1303fafbff7dd",
+      "name": "Add extra",
+      "type": "multi_choice",
+      "values": [
+        {
+          "id": "62c6d93875a247b28b7a3e7f",
+          "deposit": null,
+          "dietary_preferences": [
+          ],
+          "name": "philadelphia",
+          "price": 10000,
+          "multi_choice_config": {
+            "total_range": {
+              "min": 0,
+              "max": 0
+            }
+          }
+        },
+        {
+          "id": "2703d2a8115336bdc2bca5e4",
+          "deposit": null,
+          "dietary_preferences": [
+          ],
+          "name": "avocado",
+          "price": 10000,
+          "multi_choice_config": {
+            "total_range": {
+              "min": 0,
+              "max": 0
+            }
+          }
+        },
+        {
+          "id": "e71e642ef77261214317a7a8",
+          "deposit": null,
+          "dietary_preferences": [
+          ],
+          "name": "sausage",
+          "price": 8000,
+          "multi_choice_config": {
+            "total_range": {
+              "min": 0,
+              "max": 0
+            }
+          }
+        },
+        {
+          "id": "58f8321f99c7f431cb0c840d",
+          "deposit": null,
+          "dietary_preferences": [
+          ],
+          "name": "corn",
+          "price": 8000,
+          "multi_choice_config": {
+            "total_range": {
+              "min": 0,
+              "max": 0
+            }
+          }
+        },
+        {
+          "id": "5734f176363fd0867b7bb7da",
+          "deposit": null,
+          "dietary_preferences": [
+          ],
+          "name": "gouda",
+          "price": 10000,
+          "multi_choice_config": {
+            "total_range": {
+              "min": 0,
+              "max": 0
+            }
+          }
+        },
+        {
+          "id": "75c7c4bc485ae360d6fed81d",
+          "deposit": null,
+          "dietary_preferences": [
+          ],
+          "name": "mushrooms",
+          "price": 10000,
+          "multi_choice_config": {
+            "total_range": {
+              "min": 0,
+              "max": 0
+            }
+          }
+        },
+        {
+          "id": "262282255a5c66fefd8f7bfd",
+          "deposit": null,
+          "dietary_preferences": [
+          ],
+          "name": "tuna",
+          "price": 15000,
+          "multi_choice_config": {
+            "total_range": {
+              "min": 0,
+              "max": 0
+            }
+          }
+        },
+        {
+          "id": "27b040edb4e11edcce0acf5a",
+          "deposit": null,
+          "dietary_preferences": [
+          ],
+          "name": "chicken fillet",
+          "price": 10000,
+          "multi_choice_config": {
+            "total_range": {
+              "min": 0,
+              "max": 0
+            }
+          }
+        },
+        {
+          "id": "1fb42f5bab074031743c057a",
+          "deposit": null,
+          "dietary_preferences": [
+          ],
+          "name": "white cheese",
+          "price": 10000,
+          "multi_choice_config": {
+            "total_range": {
+              "min": 0,
+              "max": 0
+            }
+          }
+        },
+        {
+          "id": "0e33903e09809b056cdc6105",
+          "deposit": null,
+          "dietary_preferences": [
+          ],
+          "name": "gorgonzola",
+          "price": 10000,
+          "multi_choice_config": {
+            "total_range": {
+              "min": 0,
+              "max": 0
+            }
+          }
+        },
+        {
+          "id": "7c54a71bbd44ead3ba90d342",
+          "deposit": null,
+          "dietary_preferences": [
+          ],
+          "name": "grana",
+          "price": 10000,
+          "multi_choice_config": {
+            "total_range": {
+              "min": 0,
+              "max": 0
+            }
+          }
+        },
+        {
+          "id": "4d7ce7ebf6d9d3e9f0c58b84",
+          "deposit": null,
+          "dietary_preferences": [
+          ],
+          "name": "milanese",
+          "price": 10000,
+          "multi_choice_config": {
+            "total_range": {
+              "min": 0,
+              "max": 0
+            }
+          }
+        },
+        {
+          "id": "e2ce7616d0225f061d031fe4",
+          "deposit": null,
+          "dietary_preferences": [
+          ],
+          "name": "ham",
+          "price": 8000,
+          "multi_choice_config": {
+            "total_range": {
+              "min": 0,
+              "max": 0}
+          }
+        }
+      ],
+      "default_value": "62c6d93875a247b28b7a3e7f",
+      "has_extra_info": false
+    },
+    {
+      "id": "2b649d01a9761c117be46233",
+      "name": "Add drink",
+      "type": "multi_choice",
+      "values": [
+        {
+          "id": "6e1bf233248aaae961c42051",
+          "deposit": null,
+          "dietary_preferences": [
+          ],
+          "name": "water",
+          "price": 9000,
+          "multi_choice_config": {
+            "total_range": {
+              "min": 0,
+              "max": 0
+            }
+          }
+        },
+        {
+          "id": "9e360eef4a74dbce25844769",
+          "deposit": null,
+          "dietary_preferences": [
+          ],
+          "name": "bravo peach",
+          "price": 20000,
+          "multi_choice_config": {
+            "total_range": {
+              "min": 0,
+              "max": 0
+            }
+          }
+        },
+        {
+          "id": "6f9b91e3e322a3f1369b320f",
+          "deposit": null,
+          "dietary_preferences": [
+          ],
+          "name": "ice tea peach",
+          "price": 18000,
+          "multi_choice_config": {
+            "total_range": {
+              "min": 0,
+              "max": 0
+            }
+          }
+        },
+        {
+          "id": "ed3c4d92b7291ee4582d313b",
+          "deposit": null,
+          "dietary_preferences": [
+          ],
+          "name": "ice tea lemon",
+          "price": 18000,
+          "multi_choice_config": {
+            "total_range": {
+              "min": 0,
+              "max": 0
+            }
+          }
+        },
+        {
+          "id": "090098825ad1a06891f97d59",
+          "deposit": null,
+          "dietary_preferences": [
+          ],
+          "name": "coca cola",
+          "price": 18000,
+          "multi_choice_config": {
+            "total_range": {
+              "min": 0,
+              "max": 0}}
+        }
+      ],
+      "default_value": "6e1bf233248aaae961c42051",
+      "has_extra_info": false
+    }
+  ],
+  "variant_groups": [
+  ]
+}
